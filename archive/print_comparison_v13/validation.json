@@ -1,0 +1,176 @@
+{
+  "status": "geometry, independent objects, roundtrip settings and local slicing verified",
+  "geometry": [
+    {
+      "version": 1,
+      "body_watertight": true,
+      "inlay_watertight": true,
+      "body_components": 1,
+      "minimum_marker_clearance_mm": 0.9342105263157634,
+      "id_height_mm": 7,
+      "id_font_weight": 700,
+      "only_id_differs_in_measurement_geometry": true
+    },
+    {
+      "version": 2,
+      "body_watertight": true,
+      "inlay_watertight": true,
+      "body_components": 1,
+      "minimum_marker_clearance_mm": 0.9342105263157634,
+      "id_height_mm": 7,
+      "id_font_weight": 700,
+      "only_id_differs_in_measurement_geometry": true
+    },
+    {
+      "version": 3,
+      "body_watertight": true,
+      "inlay_watertight": true,
+      "body_components": 1,
+      "minimum_marker_clearance_mm": 0.9342105263157634,
+      "id_height_mm": 7,
+      "id_font_weight": 700,
+      "only_id_differs_in_measurement_geometry": true
+    },
+    {
+      "version": 4,
+      "body_watertight": true,
+      "inlay_watertight": true,
+      "body_components": 1,
+      "minimum_marker_clearance_mm": 0.9342105263157634,
+      "id_height_mm": 7,
+      "id_font_weight": 700,
+      "only_id_differs_in_measurement_geometry": true
+    },
+    {
+      "version": 5,
+      "body_watertight": true,
+      "inlay_watertight": true,
+      "body_components": 1,
+      "minimum_marker_clearance_mm": 0.9342105263157634,
+      "id_height_mm": 7,
+      "id_font_weight": 700,
+      "only_id_differs_in_measurement_geometry": true
+    }
+  ],
+  "variants": [
+    {
+      "id": 1,
+      "x": 100,
+      "y": 160,
+      "label": "בסיס להשוואה",
+      "reference": null,
+      "settings": {
+        "top_surface_speed": "200,200",
+        "outer_wall_speed": "200,200",
+        "ironing_type": "no ironing",
+        "wall_generator": "classic"
+      }
+    },
+    {
+      "id": 2,
+      "x": 14,
+      "y": 160,
+      "label": "משטח עליון איטי",
+      "reference": 1,
+      "settings": {
+        "top_surface_speed": "60,60",
+        "outer_wall_speed": "200,200",
+        "ironing_type": "no ironing",
+        "wall_generator": "classic"
+      },
+      "changed_key": "top_surface_speed"
+    },
+    {
+      "id": 3,
+      "x": 100,
+      "y": 86,
+      "label": "גם היקפים איטיים",
+      "reference": 2,
+      "settings": {
+        "top_surface_speed": "60,60",
+        "outer_wall_speed": "40,40",
+        "ironing_type": "no ironing",
+        "wall_generator": "classic"
+      },
+      "changed_key": "outer_wall_speed"
+    },
+    {
+      "id": 4,
+      "x": 14,
+      "y": 86,
+      "label": "גם גיהוץ",
+      "reference": 2,
+      "settings": {
+        "top_surface_speed": "60,60",
+        "outer_wall_speed": "200,200",
+        "ironing_type": "topmost",
+        "wall_generator": "classic"
+      },
+      "changed_key": "ironing_type"
+    },
+    {
+      "id": 5,
+      "x": 100,
+      "y": 12,
+      "label": "גם Arachne לקווים דקים",
+      "reference": 2,
+      "settings": {
+        "top_surface_speed": "60,60",
+        "outer_wall_speed": "200,200",
+        "ironing_type": "no ironing",
+        "wall_generator": "arachne"
+      },
+      "changed_key": "wall_generator"
+    }
+  ],
+  "observed_slicer_paths": {
+    "1 - בסיס להשוואה": {
+      "top_surface_max_mm_s": 159.11758333333333,
+      "outer_wall_max_mm_s": 159.11758333333333,
+      "ironing_moves": 0
+    },
+    "2 - משטח עליון איטי": {
+      "top_surface_max_mm_s": 60.0,
+      "outer_wall_max_mm_s": 159.11758333333333,
+      "ironing_moves": 0
+    },
+    "3 - גם היקפים איטיים": {
+      "top_surface_max_mm_s": 60.0,
+      "outer_wall_max_mm_s": 40.0,
+      "ironing_moves": 0
+    },
+    "4 - גם גיהוץ": {
+      "top_surface_max_mm_s": 60.0,
+      "outer_wall_max_mm_s": 159.11758333333333,
+      "ironing_moves": 3955
+    },
+    "5 - גם Arachne לקווים דקים": {
+      "top_surface_max_mm_s": 60.0,
+      "outer_wall_max_mm_s": 165.02558333333334,
+      "ironing_moves": 0
+    }
+  },
+  "plate_bounds_mm": [
+    [
+      5.699999809265137,
+      12.0,
+      0.0
+    ],
+    [
+      168.0,
+      222.0,
+      2.4000000953674316
+    ]
+  ],
+  "plate_footprint_mm": [
+    162.30000019073486,
+    210.0,
+    2.4000000953674316
+  ],
+  "thickness_mm": 2.4,
+  "layer_height_mm": 0.2,
+  "filament_profile": "Generic PLA",
+  "physical_results": "pending",
+  "gcode_delivered": false,
+  "printer_commands_sent": false
+}

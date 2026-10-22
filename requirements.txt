@@ -1,0 +1,7 @@
+fonttools>=4.55,<5
+manifold3d>=3,<4
+numpy>=2,<3
+pillow>=11,<13
+shapely>=2,<3
+trimesh>=4,<6
+networkx>=3,<4

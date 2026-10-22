@@ -1,0 +1,198 @@
+{
+  "letters": 27,
+  "models": [
+    {
+      "char": "א",
+      "file": "downloads/print_alphabet/01_U05D0/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.8402562838906
+    },
+    {
+      "char": "ב",
+      "file": "downloads/print_alphabet/02_U05D1/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157876
+    },
+    {
+      "char": "ג",
+      "file": "downloads/print_alphabet/03_U05D2/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.8399999999999997
+    },
+    {
+      "char": "ד",
+      "file": "downloads/print_alphabet/04_U05D3/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.8399999999999963
+    },
+    {
+      "char": "ה",
+      "file": "downloads/print_alphabet/05_U05D4/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157877
+    },
+    {
+      "char": "ו",
+      "file": "downloads/print_alphabet/06_U05D5/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157913
+    },
+    {
+      "char": "ז",
+      "file": "downloads/print_alphabet/07_U05D6/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.8404489004051521
+    },
+    {
+      "char": "ח",
+      "file": "downloads/print_alphabet/08_U05D7/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157877
+    },
+    {
+      "char": "ט",
+      "file": "downloads/print_alphabet/09_U05D8/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157526
+    },
+    {
+      "char": "י",
+      "file": "downloads/print_alphabet/10_U05D9/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157913
+    },
+    {
+      "char": "כ",
+      "file": "downloads/print_alphabet/11_U05DB/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157912
+    },
+    {
+      "char": "ך",
+      "file": "downloads/print_alphabet/12_U05DA/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157876
+    },
+    {
+      "char": "ל",
+      "file": "downloads/print_alphabet/13_U05DC/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157965
+    },
+    {
+      "char": "מ",
+      "file": "downloads/print_alphabet/14_U05DE/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157634
+    },
+    {
+      "char": "ם",
+      "file": "downloads/print_alphabet/15_U05DD/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157895
+    },
+    {
+      "char": "נ",
+      "file": "downloads/print_alphabet/16_U05E0/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157912
+    },
+    {
+      "char": "ן",
+      "file": "downloads/print_alphabet/17_U05DF/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157912
+    },
+    {
+      "char": "ס",
+      "file": "downloads/print_alphabet/18_U05E1/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.934210526315791
+    },
+    {
+      "char": "ע",
+      "file": "downloads/print_alphabet/19_U05E2/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157816
+    },
+    {
+      "char": "פ",
+      "file": "downloads/print_alphabet/20_U05E4/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157875
+    },
+    {
+      "char": "ף",
+      "file": "downloads/print_alphabet/21_U05E3/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157875
+    },
+    {
+      "char": "צ",
+      "file": "downloads/print_alphabet/22_U05E6/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157913
+    },
+    {
+      "char": "ץ",
+      "file": "downloads/print_alphabet/23_U05E5/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9103432696756215
+    },
+    {
+      "char": "ק",
+      "file": "downloads/print_alphabet/24_U05E7/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.934210526315762
+    },
+    {
+      "char": "ר",
+      "file": "downloads/print_alphabet/25_U05E8/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157876
+    },
+    {
+      "char": "ש",
+      "file": "downloads/print_alphabet/26_U05E9/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157894
+    },
+    {
+      "char": "ת",
+      "file": "downloads/print_alphabet/27_U05EA/DUAL_COLOR.3mf",
+      "bambu_import_manifold": true,
+      "body_connected": true,
+      "minimum_marker_clearance_mm": 0.9342105263157875
+    }
+  ],
+  "all_bodies_connected": true,
+  "all_models_imported_into_bambu": true,
+  "all_27_sliced": false,
+  "physical_test_complete": false
+}

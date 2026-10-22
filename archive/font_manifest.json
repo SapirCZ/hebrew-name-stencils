@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Alef Regular",
+    "style": "print",
+    "path": "fonts/print/alef/Alef-Regular.ttf",
+    "license": "SIL OFL 1.1",
+    "source": "https://github.com/google/fonts/tree/main/ofl/alef",
+    "retrieved_on": "2026-10-15",
+    "sha256": "a32adcc953ac356906901778460083dc207d4560cb586fd9ea24ec5b186969ed",
+    "coverage_27": true,
+    "school_approved": false
+  },
+  {
+    "name": "Heebo Regular (variable)",
+    "style": "print",
+    "path": "fonts/print/heebo/Heebo[wght].ttf",
+    "license": "SIL OFL 1.1",
+    "source": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "retrieved_on": "2026-10-15",
+    "sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "coverage_27": true,
+    "school_approved": false
+  },
+  {
+    "name": "Gveret Levin",
+    "style": "script",
+    "path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "license": "SIL OFL 1.1",
+    "source": "https://github.com/AlefAlefAlef/gveret-levin",
+    "retrieved_on": "2026-10-15",
+    "sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "coverage_27": true,
+    "school_approved": false
+  },
+  {
+    "name": "Ktav Yad CLM Medium Italic",
+    "style": "script",
+    "path": "fonts/script/ktav-yad/KtavYadCLM-MediumItalic.otf",
+    "license": "GPL-2.0 (embedded copyright)",
+    "source": "https://culmus.sourceforge.io/fancy/ktav-yad.zip",
+    "retrieved_on": "2026-10-15",
+    "sha256": "755ef6e683b1a2b491726ffd53fe7188c551223e8fe28087a4d73c96fbc870b9",
+    "coverage_27": true,
+    "school_approved": false
+  },
+  {
+    "name": "Dorian CLM Book",
+    "style": "script",
+    "path": "fonts/script/dorian/DorianCLM-Book.ttf",
+    "license": "GPL-2.0 (embedded copyright)",
+    "source": "https://culmus.sourceforge.io/fancy/dorian.zip",
+    "retrieved_on": "2026-10-15",
+    "sha256": "aad4506d806054822ade1c039bbdc2f7ba52178558a7b732def36cf1c67e5c55",
+    "coverage_27": true,
+    "school_approved": false
+  }
+]

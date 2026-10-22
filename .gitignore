@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+my-stencil/
+my-output/
+*.gcode
+*.gcode.3mf
+local/
+*.log

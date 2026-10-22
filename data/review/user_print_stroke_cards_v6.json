@@ -1,0 +1,3877 @@
+{
+  "source_pdf": "hebrew-print-stroke-cards.pdf",
+  "source_sha256": "e164e7d53714c2cd80af77385516591493a8cd3438adc3a8637502c13e5e580b",
+  "source_role": "user-supplied writing diagram reference",
+  "pdf_metadata": {
+    "/Author": "Sapir · Hebrew letter practice",
+    "/CreationDate": "D:20261018064356+00'00'",
+    "/Creator": "anonymous",
+    "/Keywords": "",
+    "/ModDate": "D:20261018064356+00'00'",
+    "/Producer": "ReportLab PDF Library - (opensource)",
+    "/Subject": "unspecified",
+    "/Title": "אותיות בעברית בדפוס - חץ אחד לכל משיכת עיפרון",
+    "/Trapped": "/False"
+  },
+  "pages": 27,
+  "date_imported": "2026-10-18",
+  "production_metadata_changed": false,
+  "count_differences_from_v4": [
+    {
+      "char": "פ",
+      "source_page": 17,
+      "old_visual_paths": 1,
+      "pdf_strokes": 2
+    },
+    {
+      "char": "ש",
+      "source_page": 21,
+      "old_visual_paths": 3,
+      "pdf_strokes": 2
+    },
+    {
+      "char": "ף",
+      "source_page": 26,
+      "old_visual_paths": 1,
+      "pdf_strokes": 2
+    }
+  ],
+  "direction_review_notes": [
+    {
+      "char": "ז",
+      "source_page": 7,
+      "note": "Short roof descends diagonally to the right; leg is vertical and begins in the middle of the roof."
+    },
+    {
+      "char": "ד",
+      "source_page": 4,
+      "note": "Separate roof and leg; leg begins before the right end of the roof."
+    },
+    {
+      "char": "מ",
+      "source_page": 13,
+      "note": "First stroke begins at lower left and rises; previous visual draft began at the roof."
+    },
+    {
+      "char": "צ",
+      "source_page": 18,
+      "note": "Long left diagonal and baseline come first; upper right branch comes second."
+    },
+    {
+      "char": "ץ",
+      "source_page": 27,
+      "note": "Long left diagonal comes first; upper right branch comes second."
+    }
+  ],
+  "cards": [
+    {
+      "char": "א",
+      "name_he": "אלף",
+      "source_page": 1,
+      "stroke_count": 3,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                78.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                230.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                230.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                217.965,
+                234.8815
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                225.505,
+                227.7185
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "יורדים באלכסון משמאל למעלה לימין למטה",
+          "start": [
+            78.0,
+            80.0
+          ],
+          "end": [
+            230.0,
+            240.0
+          ]
+        },
+        {
+          "number": 2,
+          "rgb": [
+            0.705882,
+            0.317647,
+            0.109804
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                223.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                158.0,
+                164.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                158.0,
+                164.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                161.2313,
+                151.3272
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                169.4563,
+                157.6919
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "יורדים מהקצה הימני העליון אל הקו האלכסוני",
+          "start": [
+            223.0,
+            80.0
+          ],
+          "end": [
+            158.0,
+            164.0
+          ]
+        },
+        {
+          "number": 3,
+          "rgb": [
+            0.447059,
+            0.329412,
+            0.647059
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                134.0,
+                139.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                78.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                78.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                79.27115,
+                226.9837
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                88.36663,
+                232.0267
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "מהקו האלכסוני יורדים אל הקצה השמאלי התחתון",
+          "start": [
+            134.0,
+            139.0
+          ],
+          "end": [
+            78.0,
+            240.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 42.54642,
+          "y": 57.0,
+          "source_font_size": 14.0
+        },
+        {
+          "number": 2,
+          "x": 247.54642,
+          "y": 59.0,
+          "source_font_size": 14.0
+        },
+        {
+          "number": 3,
+          "x": 101.54642000000001,
+          "y": 143.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nאלף\nשלוש משיכות\n1\n2\n3\n1\nיורדים באלכסון משמאל למעלה לימין למטה\n2\nיורדים מהקצה הימני העליון אל הקו האלכסוני\n3\nמהקו האלכסוני יורדים אל הקצה השמאלי התחתון\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n1 / 27"
+    },
+    {
+      "char": "ב",
+      "name_he": "בית",
+      "source_page": 2,
+      "stroke_count": 2,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                219.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                219.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                219.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                213.8,
+                228.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                224.2,
+                228.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "מתקדמים ימינה בגג וממשיכים למטה בצד ימין",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            219.0,
+            240.0
+          ]
+        },
+        {
+          "number": 2,
+          "rgb": [
+            0.705882,
+            0.317647,
+            0.109804
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                65.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                247.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                247.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                235.0,
+                245.2
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                235.0,
+                234.8
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "לאחר הרמה, כותבים את הבסיס משמאל לימין",
+          "start": [
+            65.0,
+            240.0
+          ],
+          "end": [
+            247.0,
+            240.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 42.54642,
+          "y": 57.0,
+          "source_font_size": 14.0
+        },
+        {
+          "number": 2,
+          "x": 34.54639,
+          "y": 272.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nבית\nשתי משיכות\n1\n2\n1\nמתקדמים ימינה בגג וממשיכים למטה בצד ימין\n2\nלאחר הרמה, כותבים את הבסיס משמאל לימין\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n2 / 27"
+    },
+    {
+      "char": "ג",
+      "name_he": "גימל",
+      "source_page": 3,
+      "stroke_count": 2,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                125.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                178.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                178.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                178.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                172.8,
+                228.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                183.2,
+                228.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "כותבים ראש קצר ימינה וממשיכים למטה",
+          "start": [
+            125.0,
+            80.0
+          ],
+          "end": [
+            178.0,
+            240.0
+          ]
+        },
+        {
+          "number": 2,
+          "rgb": [
+            0.705882,
+            0.317647,
+            0.109804
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                178.0,
+                183.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                102.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                102.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                108.48,
+                228.64
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                114.72,
+                236.96
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "מהרגל הימנית יורדים באלכסון שמאלה",
+          "start": [
+            178.0,
+            183.0
+          ],
+          "end": [
+            102.0,
+            240.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 93.54642000000001,
+          "y": 57.0,
+          "source_font_size": 14.0
+        },
+        {
+          "number": 2,
+          "x": 206.54642,
+          "y": 185.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nגימל\nשתי משיכות\n1\n2\n1\nכותבים ראש קצר ימינה וממשיכים למטה\n2\nמהרגל הימנית יורדים באלכסון שמאלה\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n3 / 27"
+    },
+    {
+      "char": "ד",
+      "name_he": "דלת",
+      "source_page": 4,
+      "stroke_count": 2,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                240.0,
+                80.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                240.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                228.0,
+                85.2
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                228.0,
+                74.8
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "כותבים את הגג משמאל לימין",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            240.0,
+            80.0
+          ]
+        },
+        {
+          "number": 2,
+          "rgb": [
+            0.705882,
+            0.317647,
+            0.109804
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                216.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                216.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                216.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                210.8,
+                228.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                221.2,
+                228.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "לאחר הרמה, יורדים מראש הרגל הימנית למטה",
+          "start": [
+            216.0,
+            80.0
+          ],
+          "end": [
+            216.0,
+            240.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 42.54642,
+          "y": 57.0,
+          "source_font_size": 14.0
+        },
+        {
+          "number": 2,
+          "x": 249.54642,
+          "y": 120.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nדלת\nשתי משיכות\n1\n2\n1\nכותבים את הגג משמאל לימין\n2\nלאחר הרמה, יורדים מראש הרגל הימנית למטה\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n4 / 27"
+    },
+    {
+      "char": "ה",
+      "name_he": "הא",
+      "source_page": 5,
+      "stroke_count": 2,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                207.0,
+                80.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                219.6667,
+                80.0,
+                226.0,
+                86.33333,
+                226.0,
+                99.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                226.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                226.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                220.8,
+                228.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                231.2,
+                228.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "ימינה בגג, ואז למטה בצד ימין, ברצף",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            226.0,
+            240.0
+          ]
+        },
+        {
+          "number": 2,
+          "rgb": [
+            0.705882,
+            0.317647,
+            0.109804
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                130.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                75.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                69.8,
+                228.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                80.2,
+                228.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "לאחר הרמה, יורדים ברגל השמאלית; משאירים רווח מהגג",
+          "start": [
+            75.0,
+            130.0
+          ],
+          "end": [
+            75.0,
+            240.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 40.54642,
+          "y": 55.0,
+          "source_font_size": 14.0
+        },
+        {
+          "number": 2,
+          "x": 39.54639,
+          "y": 150.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nהא\nשתי משיכות\n1\n2\n1\nימינה בגג, ואז למטה בצד ימין, ברצף\n2\nלאחר הרמה, יורדים ברגל השמאלית; משאירים רווח מהגג\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n5 / 27"
+    },
+    {
+      "char": "ו",
+      "name_he": "וו",
+      "source_page": 6,
+      "stroke_count": 1,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                144.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                172.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                172.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                172.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                166.8,
+                228.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                177.2,
+                228.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "ראש קצר ימינה, ואז למטה, בלי להרים",
+          "start": [
+            144.0,
+            80.0
+          ],
+          "end": [
+            172.0,
+            240.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 110.54642000000001,
+          "y": 55.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nוו\nמשיכה אחת\n1\n1\nראש קצר ימינה, ואז למטה, בלי להרים\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n6 / 27"
+    },
+    {
+      "char": "ז",
+      "name_he": "זין",
+      "source_page": 7,
+      "stroke_count": 2,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                123.0,
+                74.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                187.0,
+                98.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                187.0,
+                98.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                173.9382,
+                98.65543
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                177.5899,
+                88.91761
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "כותבים ראש קצר באלכסון ימינה ולמטה",
+          "start": [
+            123.0,
+            74.0
+          ],
+          "end": [
+            187.0,
+            98.0
+          ]
+        },
+        {
+          "number": 2,
+          "rgb": [
+            0.705882,
+            0.317647,
+            0.109804
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                155.0,
+                86.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                155.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                155.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                149.8,
+                228.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                160.2,
+                228.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "לאחר הרמה, יורדים מאמצע הראש למטה",
+          "start": [
+            155.0,
+            86.0
+          ],
+          "end": [
+            155.0,
+            240.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 90.54642000000001,
+          "y": 55.0,
+          "source_font_size": 14.0
+        },
+        {
+          "number": 2,
+          "x": 185.54642,
+          "y": 137.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nזין\nשתי משיכות\n1\n2\n1\nכותבים ראש קצר באלכסון ימינה ולמטה\n2\nלאחר הרמה, יורדים מאמצע הראש למטה\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n7 / 27"
+    },
+    {
+      "char": "ח",
+      "name_he": "חית",
+      "source_page": 8,
+      "stroke_count": 2,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                207.0,
+                80.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                219.6667,
+                80.0,
+                226.0,
+                86.33333,
+                226.0,
+                99.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                226.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                226.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                220.8,
+                228.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                231.2,
+                228.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "ימינה בגג, ואז למטה בצד ימין, ברצף",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            226.0,
+            240.0
+          ]
+        },
+        {
+          "number": 2,
+          "rgb": [
+            0.705882,
+            0.317647,
+            0.109804
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                75.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                69.8,
+                228.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                80.2,
+                228.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "לאחר הרמה, יורדים מהקצה השמאלי של הגג",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            75.0,
+            240.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 41.54642,
+          "y": 55.0,
+          "source_font_size": 14.0
+        },
+        {
+          "number": 2,
+          "x": 40.54642,
+          "y": 120.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nחית\nשתי משיכות\n1\n2\n1\nימינה בגג, ואז למטה בצד ימין, ברצף\n2\nלאחר הרמה, יורדים מהקצה השמאלי של הגג\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n8 / 27"
+    },
+    {
+      "char": "ט",
+      "name_he": "טית",
+      "source_page": 9,
+      "stroke_count": 1,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                75.0,
+                216.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                75.0,
+                232.0,
+                83.0,
+                240.0,
+                99.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                207.0,
+                240.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                222.3333,
+                240.0,
+                230.0,
+                232.0,
+                230.0,
+                216.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                230.0,
+                98.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                230.0,
+                86.0,
+                223.6667,
+                80.0,
+                211.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                204.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                171.0,
+                118.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                171.0,
+                118.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                174.9421,
+                105.53
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                182.7944,
+                112.3492
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "למטה משמאל, ימינה בתחתית, למעלה מימין ובאלכסון פנימה",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            171.0,
+            118.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 39.54639,
+          "y": 55.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nטית\nמשיכה אחת\n1\n1\nלמטה משמאל, ימינה בתחתית, למעלה מימין ובאלכסון פנימה\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n9 / 27"
+    },
+    {
+      "char": "י",
+      "name_he": "יוד",
+      "source_page": 10,
+      "stroke_count": 1,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                143.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                168.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                168.0,
+                133.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                168.0,
+                133.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                162.8,
+                121.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                173.2,
+                121.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "ראש קצר ימינה, ואז מעט למטה; האות נשארת בחלק העליון",
+          "start": [
+            143.0,
+            80.0
+          ],
+          "end": [
+            168.0,
+            133.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 109.54642000000001,
+          "y": 55.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nיוד\nמשיכה אחת\n1\n1\nראש קצר ימינה, ואז מעט למטה; האות נשארת בחלק העליון\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n10 / 27"
+    },
+    {
+      "char": "כ",
+      "name_he": "כף",
+      "source_page": 11,
+      "stroke_count": 1,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                165.0,
+                80.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                205.0,
+                80.0,
+                225.0,
+                100.0,
+                225.0,
+                140.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                225.0,
+                180.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                225.0,
+                220.0,
+                205.0,
+                240.0,
+                165.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                75.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                87.0,
+                234.8
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                87.0,
+                245.2
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "ימינה בגג, מסביב לצד הימני המעוגל, ושמאלה בתחתית",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            75.0,
+            240.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 40.54642,
+          "y": 55.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nכף\nמשיכה אחת\n1\n1\nימינה בגג, מסביב לצד הימני המעוגל, ושמאלה בתחתית\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n11 / 27"
+    },
+    {
+      "char": "ל",
+      "name_he": "למד",
+      "source_page": 12,
+      "stroke_count": 1,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                30.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                225.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                225.0,
+                169.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                135.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                135.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                141.2006,
+                228.4851
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                147.642,
+                236.6502
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "יורדים מעט, ימינה, למטה ואז באלכסון שמאלה",
+          "start": [
+            75.0,
+            30.0
+          ],
+          "end": [
+            135.0,
+            240.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 39.54639,
+          "y": 35.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nלמד\nמשיכה אחת\n1\n1\nיורדים מעט, ימינה, למטה ואז באלכסון שמאלה\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n12 / 27"
+    },
+    {
+      "char": "מ",
+      "name_he": "מם",
+      "source_page": 13,
+      "stroke_count": 2,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                213.0,
+                88.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                221.0,
+                78.66667,
+                225.0,
+                80.33333,
+                225.0,
+                93.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                225.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                159.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                159.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                171.0,
+                234.8
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                171.0,
+                245.2
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "מלמטה משמאל עולים באלכסון, יורדים מימין ופונים שמאלה",
+          "start": [
+            75.0,
+            240.0
+          ],
+          "end": [
+            159.0,
+            240.0
+          ]
+        },
+        {
+          "number": 2,
+          "rgb": [
+            0.705882,
+            0.317647,
+            0.109804
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                142.0,
+                166.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                142.0,
+                166.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                130.523,
+                159.7295
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                138.7272,
+                153.3379
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "לאחר הרמה, יורדים מלמעלה משמאל אל האלכסון",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            142.0,
+            166.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 39.54639,
+          "y": 272.0,
+          "source_font_size": 14.0
+        },
+        {
+          "number": 2,
+          "x": 39.54639,
+          "y": 55.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nמם\nשתי משיכות\n1\n2\n1\nמלמטה משמאל עולים באלכסון, יורדים מימין ופונים שמאלה\n2\nלאחר הרמה, יורדים מלמעלה משמאל אל האלכסון\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n13 / 27"
+    },
+    {
+      "char": "נ",
+      "name_he": "נון",
+      "source_page": 14,
+      "stroke_count": 1,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                143.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                182.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                182.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                119.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                119.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                131.0,
+                234.8
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                131.0,
+                245.2
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "ראש קצר ימינה, למטה, ואז שמאלה בתחתית",
+          "start": [
+            143.0,
+            80.0
+          ],
+          "end": [
+            119.0,
+            240.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 108.54642000000001,
+          "y": 55.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nנון\nמשיכה אחת\n1\n1\nראש קצר ימינה, למטה, ואז שמאלה בתחתית\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n14 / 27"
+    },
+    {
+      "char": "ס",
+      "name_he": "סמך",
+      "source_page": 15,
+      "stroke_count": 1,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                182.0,
+                80.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                210.6667,
+                80.0,
+                225.0,
+                94.33333,
+                225.0,
+                123.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                225.0,
+                183.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                225.0,
+                221.0,
+                200.0,
+                240.0,
+                150.0,
+                240.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                100.0,
+                240.0,
+                75.0,
+                221.0,
+                75.0,
+                183.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                109.406
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                80.2,
+                121.406
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                69.8,
+                121.406
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "ימינה, מסביב לתחתית המעוגלת, ולמעלה עד שסוגרים",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            75.0,
+            80.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 39.54639,
+          "y": 55.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nסמך\nמשיכה אחת\n1\n1\nימינה, מסביב לתחתית המעוגלת, ולמעלה עד שסוגרים\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n15 / 27"
+    },
+    {
+      "char": "ע",
+      "name_he": "עין",
+      "source_page": 16,
+      "stroke_count": 2,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                225.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                225.0,
+                211.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                225.0,
+                230.3333,
+                215.3333,
+                240.0,
+                196.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                75.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                87.0,
+                234.8
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                87.0,
+                245.2
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "יורדים בצד ימין וממשיכים שמאלה לאורך הבסיס",
+          "start": [
+            225.0,
+            80.0
+          ],
+          "end": [
+            75.0,
+            240.0
+          ]
+        },
+        {
+          "number": 2,
+          "rgb": [
+            0.705882,
+            0.317647,
+            0.109804
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                106.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                133.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                133.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                125.8757,
+                229.0326
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                136.1307,
+                227.302
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "לאחר הרמה, יורדים בעמוד השמאלי עד הבסיס",
+          "start": [
+            106.0,
+            80.0
+          ],
+          "end": [
+            133.0,
+            240.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 251.54642,
+          "y": 55.0,
+          "source_font_size": 14.0
+        },
+        {
+          "number": 2,
+          "x": 72.54642000000001,
+          "y": 55.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nעין\nשתי משיכות\n1\n2\n1\nיורדים בצד ימין וממשיכים שמאלה לאורך הבסיס\n2\nלאחר הרמה, יורדים בעמוד השמאלי עד הבסיס\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n16 / 27"
+    },
+    {
+      "char": "פ",
+      "name_he": "פא",
+      "source_page": 17,
+      "stroke_count": 2,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                196.0,
+                80.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                215.3333,
+                80.0,
+                225.0,
+                89.66667,
+                225.0,
+                109.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                225.0,
+                211.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                225.0,
+                230.3333,
+                215.3333,
+                240.0,
+                196.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                75.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                87.0,
+                234.8
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                87.0,
+                245.2
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "ימינה בגג, למטה בצד ימין ושמאלה בתחתית",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            75.0,
+            240.0
+          ]
+        },
+        {
+          "number": 2,
+          "rgb": [
+            0.705882,
+            0.317647,
+            0.109804
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                75.0,
+                144.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                142.0,
+                144.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                142.0,
+                144.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                130.0,
+                149.2
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                130.0,
+                138.8
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "חוזרים להתחלה, יורדים מעט ופונים ימינה פנימה",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            142.0,
+            144.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 40.54642,
+          "y": 55.0,
+          "source_font_size": 14.0
+        },
+        {
+          "number": 2,
+          "x": 40.54642,
+          "y": 117.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nפא\nשתי משיכות\n1\n2\n1\nימינה בגג, למטה בצד ימין ושמאלה בתחתית\n2\nחוזרים להתחלה, יורדים מעט ופונים ימינה פנימה\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n17 / 27"
+    },
+    {
+      "char": "צ",
+      "name_he": "צדי",
+      "source_page": 18,
+      "stroke_count": 2,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                219.0,
+                223.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                230.3333,
+                234.3333,
+                229.0,
+                240.0,
+                215.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                75.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                87.0,
+                234.8
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                87.0,
+                245.2
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "באלכסון ימינה ולמטה, ואז שמאלה לאורך הבסיס",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            75.0,
+            240.0
+          ]
+        },
+        {
+          "number": 2,
+          "rgb": [
+            0.705882,
+            0.317647,
+            0.109804
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                222.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                169.0,
+                173.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                169.0,
+                173.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                170.4237,
+                159.9995
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                179.4594,
+                165.1489
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "לאחר הרמה, מהקצה הימני העליון יורדים אל האלכסון",
+          "start": [
+            222.0,
+            80.0
+          ],
+          "end": [
+            169.0,
+            173.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 40.54642,
+          "y": 55.0,
+          "source_font_size": 14.0
+        },
+        {
+          "number": 2,
+          "x": 247.54642,
+          "y": 57.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nצדי\nשתי משיכות\n1\n2\n1\nבאלכסון ימינה ולמטה, ואז שמאלה לאורך הבסיס\n2\nלאחר הרמה, מהקצה הימני העליון יורדים אל האלכסון\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n18 / 27"
+    },
+    {
+      "char": "ק",
+      "name_he": "קוף",
+      "source_page": 19,
+      "stroke_count": 2,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                212.0,
+                80.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                224.0,
+                80.0,
+                230.0,
+                86.0,
+                230.0,
+                98.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                230.0,
+                165.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                151.0,
+                216.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                151.0,
+                216.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                158.2614,
+                205.1228
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                163.902,
+                213.8603
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "ימינה בגג, מעט למטה מימין ואז באלכסון שמאלה",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            151.0,
+            216.0
+          ]
+        },
+        {
+          "number": 2,
+          "rgb": [
+            0.705882,
+            0.317647,
+            0.109804
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                135.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                75.0,
+                314.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                314.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                69.8,
+                302.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                80.2,
+                302.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "לאחר הרמה, יורדים ברגל השמאלית אל מתחת לשורה",
+          "start": [
+            75.0,
+            135.0
+          ],
+          "end": [
+            75.0,
+            314.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 39.54639,
+          "y": 55.0,
+          "source_font_size": 14.0
+        },
+        {
+          "number": 2,
+          "x": 39.54639,
+          "y": 152.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nקוף\nשתי משיכות\n1\n2\n1\nימינה בגג, מעט למטה מימין ואז באלכסון שמאלה\n2\nלאחר הרמה, יורדים ברגל השמאלית אל מתחת לשורה\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n19 / 27"
+    },
+    {
+      "char": "ר",
+      "name_he": "ריש",
+      "source_page": 20,
+      "stroke_count": 1,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                205.0,
+                80.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                221.6667,
+                80.0,
+                230.0,
+                88.33333,
+                230.0,
+                105.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                230.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                230.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                224.8,
+                228.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                235.2,
+                228.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "ימינה בגג, ואז למטה בצד ימין, בלי להרים",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            230.0,
+            240.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 39.54639,
+          "y": 55.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nריש\nמשיכה אחת\n1\n1\nימינה בגג, ואז למטה בצד ימין, בלי להרים\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n20 / 27"
+    },
+    {
+      "char": "ש",
+      "name_he": "שין",
+      "source_page": 21,
+      "stroke_count": 2,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                225.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                225.0,
+                210.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                225.0,
+                230.0,
+                215.0,
+                240.0,
+                195.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                105.0,
+                240.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                85.0,
+                240.0,
+                75.0,
+                230.0,
+                75.0,
+                210.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                75.0,
+                80.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                80.2,
+                92.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                69.8,
+                92.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "מתחילים מימין: למטה, שמאלה בתחתית ולמעלה משמאל",
+          "start": [
+            225.0,
+            80.0
+          ],
+          "end": [
+            75.0,
+            80.0
+          ]
+        },
+        {
+          "number": 2,
+          "rgb": [
+            0.705882,
+            0.317647,
+            0.109804
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                150.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                150.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                150.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                144.8,
+                228.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                155.2,
+                228.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "לאחר הרמה, יורדים בעמוד האמצעי עד הבסיס",
+          "start": [
+            150.0,
+            80.0
+          ],
+          "end": [
+            150.0,
+            240.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 251.54642,
+          "y": 55.0,
+          "source_font_size": 14.0
+        },
+        {
+          "number": 2,
+          "x": 145.54642,
+          "y": 52.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nשין\nשתי משיכות\n1\n2\n1\nמתחילים מימין: למטה, שמאלה בתחתית ולמעלה משמאל\n2\nלאחר הרמה, יורדים בעמוד האמצעי עד הבסיס\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n21 / 27"
+    },
+    {
+      "char": "ת",
+      "name_he": "תיו",
+      "source_page": 22,
+      "stroke_count": 2,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                85.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                209.0,
+                80.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                223.0,
+                80.0,
+                230.0,
+                87.0,
+                230.0,
+                101.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                230.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                230.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                224.8,
+                228.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                235.2,
+                228.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "ימינה בגג, ואז למטה בצד ימין, ברצף",
+          "start": [
+            85.0,
+            80.0
+          ],
+          "end": [
+            230.0,
+            240.0
+          ]
+        },
+        {
+          "number": 2,
+          "rgb": [
+            0.705882,
+            0.317647,
+            0.109804
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                85.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                85.0,
+                219.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                85.0,
+                233.0,
+                78.33333,
+                240.0,
+                65.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                48.0,
+                240.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                48.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                60.0,
+                234.8
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                60.0,
+                245.2
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "חוזרים לשמאל הגג, יורדים ופונים מעט שמאלה",
+          "start": [
+            85.0,
+            80.0
+          ],
+          "end": [
+            48.0,
+            240.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 50.54642,
+          "y": 55.0,
+          "source_font_size": 14.0
+        },
+        {
+          "number": 2,
+          "x": 50.54642,
+          "y": 118.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nתיו\nשתי משיכות\n1\n2\n1\nימינה בגג, ואז למטה בצד ימין, ברצף\n2\nחוזרים לשמאל הגג, יורדים ופונים מעט שמאלה\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n22 / 27"
+    },
+    {
+      "char": "ך",
+      "name_he": "כף סופית",
+      "source_page": 23,
+      "stroke_count": 1,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                208.0,
+                80.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                222.6667,
+                80.0,
+                230.0,
+                87.33333,
+                230.0,
+                102.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                230.0,
+                314.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                230.0,
+                314.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                224.8,
+                302.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                235.2,
+                302.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "ימינה בגג, ואז למטה אל מתחת לשורת הבסיס",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            230.0,
+            314.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 39.54639,
+          "y": 55.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nכף סופית\nמשיכה אחת\n1\n1\nימינה בגג, ואז למטה אל מתחת לשורת הבסיס\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n23 / 27"
+    },
+    {
+      "char": "ם",
+      "name_he": "מם סופית",
+      "source_page": 24,
+      "stroke_count": 1,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                225.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                225.0,
+                240.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                75.0,
+                240.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                111.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                80.2,
+                123.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                69.8,
+                123.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "ימינה, למטה, שמאלה ולמעלה, עד שסוגרים את המרובע",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            75.0,
+            80.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 39.54639,
+          "y": 55.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nמם סופית\nמשיכה אחת\n1\n1\nימינה, למטה, שמאלה ולמעלה, עד שסוגרים את המרובע\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n24 / 27"
+    },
+    {
+      "char": "ן",
+      "name_he": "נון סופית",
+      "source_page": 25,
+      "stroke_count": 1,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                143.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                171.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                171.0,
+                314.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                171.0,
+                314.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                165.8,
+                302.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                176.2,
+                302.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "ראש קצר ימינה, ואז למטה אל מתחת לשורת הבסיס",
+          "start": [
+            143.0,
+            80.0
+          ],
+          "end": [
+            171.0,
+            314.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 108.54642000000001,
+          "y": 55.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nנון סופית\nמשיכה אחת\n1\n1\nראש קצר ימינה, ואז למטה אל מתחת לשורת הבסיס\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n25 / 27"
+    },
+    {
+      "char": "ף",
+      "name_he": "פא סופית",
+      "source_page": 26,
+      "stroke_count": 2,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                208.0,
+                80.0
+              ]
+            },
+            {
+              "op": "c",
+              "values": [
+                222.6667,
+                80.0,
+                230.0,
+                87.33333,
+                230.0,
+                102.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                230.0,
+                314.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                230.0,
+                314.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                224.8,
+                302.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                235.2,
+                302.0
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "ימינה בגג, ואז למטה אל מתחת לשורת הבסיס",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            230.0,
+            314.0
+          ]
+        },
+        {
+          "number": 2,
+          "rgb": [
+            0.705882,
+            0.317647,
+            0.109804
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                75.0,
+                143.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                142.0,
+                143.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                142.0,
+                143.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                130.0,
+                148.2
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                130.0,
+                137.8
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "חוזרים להתחלה, יורדים מעט ופונים ימינה פנימה",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            142.0,
+            143.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 39.54639,
+          "y": 55.0,
+          "source_font_size": 14.0
+        },
+        {
+          "number": 2,
+          "x": 39.54639,
+          "y": 118.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nפא סופית\nשתי משיכות\n1\n2\n1\nימינה בגג, ואז למטה אל מתחת לשורת הבסיס\n2\nחוזרים להתחלה, יורדים מעט ופונים ימינה פנימה\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n26 / 27"
+    },
+    {
+      "char": "ץ",
+      "name_he": "צדי סופית",
+      "source_page": 27,
+      "stroke_count": 2,
+      "status": "user_supplied_reference; not production approval",
+      "coordinate_space": "source diagram units, x right, y down; not millimeters",
+      "outline_source": "explicit diagram paths in PDF, not a glyph from its text font",
+      "strokes": [
+        {
+          "number": 1,
+          "rgb": [
+            0.090196,
+            0.419608,
+            0.643137
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                75.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                222.0,
+                314.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                222.0,
+                314.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                211.2134,
+                306.6048
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                220.0198,
+                301.0725
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "יורדים באלכסון ימינה אל מתחת לשורת הבסיס",
+          "start": [
+            75.0,
+            80.0
+          ],
+          "end": [
+            222.0,
+            314.0
+          ]
+        },
+        {
+          "number": 2,
+          "rgb": [
+            0.705882,
+            0.317647,
+            0.109804
+          ],
+          "path": [
+            {
+              "op": "m",
+              "values": [
+                224.0,
+                80.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                136.0,
+                177.0
+              ]
+            }
+          ],
+          "arrow_head": [
+            {
+              "op": "m",
+              "values": [
+                136.0,
+                177.0
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                140.2117,
+                164.6185
+              ]
+            },
+            {
+              "op": "l",
+              "values": [
+                147.9142,
+                171.6064
+              ]
+            },
+            {
+              "op": "h",
+              "values": []
+            }
+          ],
+          "description_he": "לאחר הרמה, יורדים מהקצה הימני העליון אל האלכסון",
+          "start": [
+            224.0,
+            80.0
+          ],
+          "end": [
+            136.0,
+            177.0
+          ]
+        }
+      ],
+      "number_positions": [
+        {
+          "number": 1,
+          "x": 39.54639,
+          "y": 55.0,
+          "source_font_size": 14.0
+        },
+        {
+          "number": 2,
+          "x": 249.54642,
+          "y": 57.0,
+          "source_font_size": 14.0
+        }
+      ],
+      "source_text_he": "כותבים בדפוס\nצדי סופית\nשתי משיכות\n1\n2\n1\nיורדים באלכסון ימינה אל מתחת לשורת הבסיס\n2\nלאחר הרמה, יורדים מהקצה הימני העליון אל האלכסון\nנקודה = התחלה. חץ אחד = תנועה רצופה אחת.\nמרימים רק לפני שמתחילים את המספר הבא.\n27 / 27"
+    }
+  ]
+}

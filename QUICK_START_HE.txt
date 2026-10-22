@@ -1,0 +1,12 @@
+שבלונות עברית — התחלה מהירה
+
+להדפסת דוגמה קיימת: examples/noga/
+כל אותיות הדפוס: downloads/print_alphabet/
+לשני צבעים לפתוח DUAL_COLOR.3mf כפרויקט ב־Bambu Studio.
+לצבע אחד לפתוח SINGLE_COLOR.3mf או single.stl.
+
+ליצירת שם משלכם: קראו README.md או docs/NAMES_HE.md.
+להתקין את התלויות ולהפעיל src/name_app.py; ייפתח טופס בעברית בדפדפן.
+
+מצב נוכחי ומה עדיין פתוח: STATUS_HE.md.
+הסט עדיין בניסוי, ויש להתאים את הפרויקט למדפסת ולחומר ולבצע Slice לפני הדפסה.

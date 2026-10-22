@@ -1,0 +1,11 @@
+{
+  "name_baseline_translation_mm": -11.402631578947371,
+  "baseline_source": "validated v16 name layout, preserved without its private roster",
+  "name_thickness_mm": 1.8,
+  "tile_thickness_mm": 2.4,
+  "name_height_min_mm": 52,
+  "marker_depth_mm": 0.6,
+  "digit_expansion_per_edge_mm": 0.12,
+  "marker_layout_revision": "v8",
+  "physical_test_status": "combined finish settings and 1.8mm thickness pending confirmation"
+}

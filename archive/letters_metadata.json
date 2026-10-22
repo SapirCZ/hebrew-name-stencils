@@ -1,0 +1,3648 @@
+[
+  {
+    "name_he": "אלף",
+    "char": "א",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": 3,
+    "stroke_order_description": "1. אלכסון עליון־שמאלי לימין למטה. 2. ענף מימין למעלה אל המפגש. 3. ענף מהמפגש לשמאל למטה.",
+    "start_points": [
+      {
+        "x": 16,
+        "y": 42.5,
+        "label_x": 8,
+        "label_y": 48
+      },
+      {
+        "x": 35,
+        "y": 42.5,
+        "label_x": 40,
+        "label_y": 49
+      },
+      {
+        "x": 21.5,
+        "y": 34.5,
+        "label_x": 8,
+        "label_y": 34
+      }
+    ],
+    "direction_arrows": [
+      {
+        "from": [
+          10.8,
+          47
+        ],
+        "to": [
+          14,
+          43
+        ],
+        "path": [
+          [
+            10.8,
+            47
+          ],
+          [
+            14,
+            43
+          ]
+        ]
+      },
+      {
+        "from": [
+          40,
+          44
+        ],
+        "to": [
+          36,
+          37
+        ],
+        "path": [
+          [
+            40,
+            44
+          ],
+          [
+            36,
+            37
+          ]
+        ]
+      },
+      {
+        "from": [
+          15.25274505383064,
+          36.030624016414656
+        ],
+        "to": [
+          13.038524590163934,
+          24.0
+        ],
+        "path": [
+          [
+            15.25274505383064,
+            36.030624016414656
+          ],
+          [
+            14.924439135945835,
+            35.56784919451961
+          ],
+          [
+            14.625507020540581,
+            35.08559077453169
+          ],
+          [
+            14.354486969825803,
+            34.5871115557628
+          ],
+          [
+            14.111421140924856,
+            34.074401418390686
+          ],
+          [
+            13.897500819293509,
+            33.54885144867601
+          ],
+          [
+            13.710485553224306,
+            33.01314129697347
+          ],
+          [
+            13.548259412757218,
+            32.469394388192185
+          ],
+          [
+            13.411806806686352,
+            31.918589394352722
+          ],
+          [
+            13.29984330149435,
+            31.362298304462012
+          ],
+          [
+            13.209121182649124,
+            30.80215631839266
+          ],
+          [
+            13.138504349936378,
+            30.239110932594183
+          ],
+          [
+            13.087905953306942,
+            29.67389577212616
+          ],
+          [
+            13.057429411155603,
+            29.107262824944414
+          ],
+          [
+            13.043994754703165,
+            28.539923890166133
+          ],
+          [
+            13.038524590163934,
+            27.972485857565538
+          ],
+          [
+            13.038524590163934,
+            27.404987877913314
+          ],
+          [
+            13.038524590163934,
+            26.837489898261097
+          ],
+          [
+            13.038524590163934,
+            26.269991918608877
+          ],
+          [
+            13.038524590163934,
+            25.702493938956657
+          ],
+          [
+            13.038524590163934,
+            25.13499595930444
+          ],
+          [
+            13.038524590163934,
+            24.567497979652217
+          ],
+          [
+            13.038524590163934,
+            24.0
+          ]
+        ]
+      }
+    ],
+    "reference_start_regions": [
+      "upper_left",
+      "upper_right",
+      "center_left"
+    ],
+    "reference_initial_directions": [
+      "down_right",
+      "down_left",
+      "down_left"
+    ],
+    "needs_bridge": false,
+    "tile_id": "print_u05d0",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": "https://gkushnir.com/product/נהנים-לכתוב-בדפוס/",
+    "source_locator": "דוגמה הכרת האות וכתיבתה; תמונת 353815214539011.jpg, שלוש מסגרות מימין",
+    "stroke_order_status": "approved",
+    "approved_by": "User: מאשרת את ההגדרות לפיילוט (chat reply 2026-10-15)",
+    "font_selection_status": "approved",
+    "source_scope": "מקור ישראלי של חיה קושניר; השלבים נבדקו חזותית, הגדרת המשיכות אושרה לפיילוט; מיקום הסימונים ממתין לניסוי פיזי.",
+    "israeli_pedagogy_source": "https://gkushnir.com/product/נהנים-לכתוב-בדפוס/",
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "approved_geometry_config_sha256": "78e9740bb68dc4b7c40a9c106327f105d7ae7bec70b5660e891bf1d118d9adce",
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null,
+    "approval_scope": "pilot",
+    "marker_placement_status": "engineering_pilot; generated after approval of stroke definitions; unprinted",
+    "marker_style_revision": "v2: glyph-following curved arrows; user requested visual refinement 2026-10-15; stroke order unchanged"
+  },
+  {
+    "name_he": "בית",
+    "char": "ב",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": 2,
+    "stroke_order_description": "גג משמאל לימין ואז מטה בצד ימין; הרמת עט וקו בסיס משמאל לימין.",
+    "start_points": [
+      {
+        "x": 17.5,
+        "y": 42.5,
+        "label_x": 11,
+        "label_y": 49
+      },
+      {
+        "x": 17.5,
+        "y": 20.5,
+        "label_x": 11,
+        "label_y": 12
+      }
+    ],
+    "direction_arrows": [
+      {
+        "from": [
+          17.5,
+          46.5639344262295
+        ],
+        "to": [
+          35.88770491803279,
+          29.000000000000007
+        ],
+        "path": [
+          [
+            17.5,
+            46.5639344262295
+          ],
+          [
+            18.05659659436451,
+            46.5639344262295
+          ],
+          [
+            18.613193188729024,
+            46.5639344262295
+          ],
+          [
+            19.169789783093535,
+            46.5639344262295
+          ],
+          [
+            19.726386377458045,
+            46.5639344262295
+          ],
+          [
+            20.28298297182256,
+            46.5639344262295
+          ],
+          [
+            20.83957956618707,
+            46.5639344262295
+          ],
+          [
+            21.39617616055158,
+            46.5639344262295
+          ],
+          [
+            21.952772754916094,
+            46.5639344262295
+          ],
+          [
+            22.509369349280604,
+            46.5639344262295
+          ],
+          [
+            23.065965943645118,
+            46.5639344262295
+          ],
+          [
+            23.622544723292616,
+            46.561446670177155
+          ],
+          [
+            24.17901753232293,
+            46.55066110278376
+          ],
+          [
+            24.73496858108141,
+            46.523909435234856
+          ],
+          [
+            25.289807999750522,
+            46.47984730670488
+          ],
+          [
+            25.842996885131058,
+            46.41877499277009
+          ],
+          [
+            26.393890675084823,
+            46.3398364182949
+          ],
+          [
+            26.941707406456423,
+            46.24188294812655
+          ],
+          [
+            27.485532173332366,
+            46.123768802637095
+          ],
+          [
+            28.024308599601333,
+            45.98437613192893
+          ],
+          [
+            28.556834109976975,
+            45.82264477249492
+          ],
+          [
+            29.08155054054171,
+            45.63706838191842
+          ],
+          [
+            29.596834567932458,
+            45.42672341863281
+          ],
+          [
+            30.101290969482662,
+            45.191609283612614
+          ],
+          [
+            30.593209417654727,
+            44.931275417440304
+          ],
+          [
+            31.07037354223852,
+            44.64480754454201
+          ],
+          [
+            31.531226513919673,
+            44.3328394613375
+          ],
+          [
+            31.974099262710695,
+            43.99589272676113
+          ],
+          [
+            32.397315265340275,
+            43.63460879313135
+          ],
+          [
+            32.799240172482705,
+            43.249810191552726
+          ],
+          [
+            33.178336947061894,
+            42.84252052304317
+          ],
+          [
+            33.533305532575234,
+            42.41403765471962
+          ],
+          [
+            33.863145519119925,
+            41.96590798750925
+          ],
+          [
+            34.16714100074728,
+            41.49983067815317
+          ],
+          [
+            34.444875072921455,
+            41.01760397307342
+          ],
+          [
+            34.69623073100134,
+            40.52107032761771
+          ],
+          [
+            34.92084145158834,
+            40.01184856996216
+          ],
+          [
+            35.11918204636857,
+            39.49182815708395
+          ],
+          [
+            35.292404194290604,
+            38.962906883876656
+          ],
+          [
+            35.4408903925851,
+            38.42651034794432
+          ],
+          [
+            35.56524570569788,
+            37.88403037533968
+          ],
+          [
+            35.66744836810412,
+            37.336975667293835
+          ],
+          [
+            35.74867989980429,
+            36.78643037677894
+          ],
+          [
+            35.81015384137135,
+            36.233327853892426
+          ],
+          [
+            35.85308814969283,
+            35.67845973551423
+          ],
+          [
+            35.878682831367676,
+            35.12248785480217
+          ],
+          [
+            35.88770159512805,
+            34.56596592956729
+          ],
+          [
+            35.88770491803279,
+            34.00936934928061
+          ],
+          [
+            35.88770491803279,
+            33.4527727549161
+          ],
+          [
+            35.88770491803279,
+            32.89617616055159
+          ],
+          [
+            35.88770491803279,
+            32.339579566187076
+          ],
+          [
+            35.88770491803279,
+            31.782982971822566
+          ],
+          [
+            35.88770491803279,
+            31.226386377458052
+          ],
+          [
+            35.88770491803279,
+            30.66978978309354
+          ],
+          [
+            35.88770491803279,
+            30.11319318872903
+          ],
+          [
+            35.88770491803279,
+            29.55659659436452
+          ],
+          [
+            35.88770491803279,
+            29.000000000000007
+          ]
+        ]
+      },
+      {
+        "from": [
+          16,
+          17
+        ],
+        "to": [
+          35,
+          17
+        ],
+        "path": [
+          [
+            16,
+            17
+          ],
+          [
+            35,
+            17
+          ]
+        ]
+      }
+    ],
+    "reference_start_regions": [
+      "upper_left",
+      "lower_left"
+    ],
+    "reference_initial_directions": [
+      "right_then_down",
+      "right"
+    ],
+    "needs_bridge": false,
+    "tile_id": "print_u05d1",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": "https://ugabuga.co.il/letters/bet",
+    "source_locator": "SVG ההדגמה הגלוי בעמוד, aria-label איך כותבים את האות; נבדק סדר פקודות M/H/V/Q/Z",
+    "stroke_order_status": "approved",
+    "approved_by": "User: מאשרת את ההגדרות לפיילוט (chat reply 2026-10-15)",
+    "font_selection_status": "approved",
+    "source_scope": "אתר תרגול ישראלי; אינו תקן או מדריך משרד החינוך. הכיוון נבדק בהדגמה ונמצא תואם גם למקור ההשוואה החיצוני. המשתמשת אישרה הגדרה זו לפיילוט.",
+    "israeli_pedagogy_source": "https://ugabuga.co.il/letters/bet",
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "approved_geometry_config_sha256": "78e9740bb68dc4b7c40a9c106327f105d7ae7bec70b5660e891bf1d118d9adce",
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null,
+    "approval_scope": "pilot",
+    "marker_placement_status": "engineering_pilot; generated after approval of stroke definitions; unprinted",
+    "marker_style_revision": "v2: glyph-following curved arrows; user requested visual refinement 2026-10-15; stroke order unchanged"
+  },
+  {
+    "name_he": "גימל",
+    "char": "ג",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": 2,
+    "stroke_order_description": "קו עליון משמאל לימין וירידה לרגל הימנית; ענף מהאזור המרכזי באלכסון לשמאל למטה.",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [
+      "upper_left",
+      "middle"
+    ],
+    "reference_initial_directions": [
+      "right_then_down",
+      "down_left"
+    ],
+    "needs_bridge": false,
+    "tile_id": "print_u05d2",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": "https://www.ancient-hebrew.org/learn/how-to-write-hebrew.htm#Gimel",
+    "source_locator": "See docs/stroke_order/pilot_reference.md",
+    "stroke_order_status": "draft_reference",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": "תעתיק ראשוני של מקור; אינו אישור לתוכנית לימודים ישראלית",
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "דלת",
+    "char": "ד",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05d3",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "הא",
+    "char": "ה",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05d4",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "וו",
+    "char": "ו",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05d5",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "זין",
+    "char": "ז",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05d6",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "חית",
+    "char": "ח",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05d7",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "טית",
+    "char": "ט",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05d8",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "יוד",
+    "char": "י",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05d9",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "כף סופית",
+    "char": "ך",
+    "style": "print",
+    "final_form": true,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05da",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "כף",
+    "char": "כ",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05db",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "למד",
+    "char": "ל",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05dc",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "מם סופית",
+    "char": "ם",
+    "style": "print",
+    "final_form": true,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": 1,
+    "stroke_order_description": "בגרסת מקור זה: תחילה החלק העליון משמאל לימין ואז מטה בצד ימין; ההקפה מרובעת. יש לאשר גרסת משיכה יחידה לעומת חלוקה לשתי משיכות.",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [
+      "upper_left"
+    ],
+    "reference_initial_directions": [
+      "right_then_down"
+    ],
+    "needs_bridge": true,
+    "tile_id": "print_u05dd",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": "https://www.ancient-hebrew.org/learn/how-to-write-hebrew.htm#Final-Mem",
+    "source_locator": "See docs/stroke_order/pilot_reference.md",
+    "stroke_order_status": "draft_reference",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": "תעתיק ראשוני של מקור; אינו אישור לתוכנית לימודים ישראלית",
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "pending",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "מם",
+    "char": "מ",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05de",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "נון סופית",
+    "char": "ן",
+    "style": "print",
+    "final_form": true,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05df",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "נון",
+    "char": "נ",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05e0",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "סמך",
+    "char": "ס",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": 1,
+    "stroke_order_description": "מהגג משמאל לימין; ירידה בצד ימין, הקפה בתחתית לשמאל וחזרה למעלה בכיוון השעון ברצף.",
+    "start_points": [
+      {
+        "x": 17,
+        "y": 43,
+        "label_x": 11,
+        "label_y": 50
+      }
+    ],
+    "direction_arrows": [
+      {
+        "from": [
+          18.480116128769662,
+          46.28843504547142
+        ],
+        "to": [
+          13.58346048077733,
+          30.05479140926298
+        ],
+        "path": [
+          [
+            18.480116128769662,
+            46.28843504547142
+          ],
+          [
+            19.023008326717182,
+            46.384560826999355
+          ],
+          [
+            19.567595908021747,
+            46.47049541969686
+          ],
+          [
+            20.11247741370679,
+            46.55460489038744
+          ],
+          [
+            20.658950411713697,
+            46.62766297681455
+          ],
+          [
+            21.205653022756433,
+            46.69891591946027
+          ],
+          [
+            21.753604256075896,
+            46.75992043052565
+          ],
+          [
+            22.301855952268102,
+            46.81796847718071
+          ],
+          [
+            22.851000446069047,
+            46.86708496519384
+          ],
+          [
+            23.40054270695218,
+            46.911144800073984
+          ],
+          [
+            23.95067847895726,
+            46.9475142491627
+          ],
+          [
+            24.501259524694483,
+            46.975680594480664
+          ],
+          [
+            25.052131197574635,
+            46.99831915637985
+          ],
+          [
+            25.603357348727926,
+            47.008391028643786
+          ],
+          [
+            26.15464725311211,
+            47.013952261391836
+          ],
+          [
+            26.705857560189752,
+            47.00354111060012
+          ],
+          [
+            27.256534035288375,
+            46.97735532936329
+          ],
+          [
+            27.806173783698107,
+            46.93468933487042
+          ],
+          [
+            28.354210776342573,
+            46.87484667845146
+          ],
+          [
+            28.900012213116618,
+            46.79714031235845
+          ],
+          [
+            29.442641663817533,
+            46.699653324034195
+          ],
+          [
+            29.981171725692967,
+            46.58169056702677
+          ],
+          [
+            30.514935685548878,
+            46.44383018802558
+          ],
+          [
+            31.04303207334432,
+            46.28565845083008
+          ],
+          [
+            31.564497944270148,
+            46.10679564343617
+          ],
+          [
+            32.07770573037037,
+            45.905413572863296
+          ],
+          [
+            32.58140246163208,
+            45.681353812422316
+          ],
+          [
+            33.07503014300651,
+            45.43594769911468
+          ],
+          [
+            33.557717811546716,
+            45.16965694486717
+          ],
+          [
+            34.02815082900054,
+            44.882242444831846
+          ],
+          [
+            34.48459066968039,
+            44.57309301034672
+          ],
+          [
+            34.926398016260194,
+            44.24339829487336
+          ],
+          [
+            35.35305105967939,
+            43.89431680378802
+          ],
+          [
+            35.7629186250268,
+            43.52565091841532
+          ],
+          [
+            36.15423945250008,
+            43.137353517707155
+          ],
+          [
+            36.526833078188126,
+            42.731071857140456
+          ],
+          [
+            36.88081196043073,
+            42.308473067039266
+          ],
+          [
+            37.214961995300165,
+            41.870007142393604
+          ],
+          [
+            37.527940688834015,
+            41.41618153999823
+          ],
+          [
+            37.82027683126623,
+            40.94880663135808
+          ],
+          [
+            38.09276768186676,
+            40.46959113390621
+          ],
+          [
+            38.344803583972514,
+            39.97929272688378
+          ],
+          [
+            38.574611404126614,
+            39.47817253888616
+          ],
+          [
+            38.782196814725054,
+            38.967463662469996
+          ],
+          [
+            38.969155324202944,
+            38.448861747700185
+          ],
+          [
+            39.135778564379955,
+            37.923367378345155
+          ],
+          [
+            39.282350142102935,
+            37.391911738000346
+          ],
+          [
+            39.408312287341694,
+            36.85517843294492
+          ],
+          [
+            39.51423708586632,
+            36.314146398258714
+          ],
+          [
+            39.602016255919935,
+            35.76988709149648
+          ],
+          [
+            39.67229137726283,
+            35.22309335706573
+          ],
+          [
+            39.72573064287369,
+            34.674392420733795
+          ],
+          [
+            39.76301887480815,
+            34.124347190494
+          ],
+          [
+            39.78470892061957,
+            33.57345440294405
+          ],
+          [
+            39.79139344262295,
+            33.022165003574834
+          ],
+          [
+            39.79139344262295,
+            32.47082835100524
+          ],
+          [
+            39.79139344262295,
+            31.91949169843565
+          ],
+          [
+            39.79139344262295,
+            31.36815504586606
+          ],
+          [
+            39.79139344262295,
+            30.81681839329647
+          ],
+          [
+            39.79139344262295,
+            30.265481740726873
+          ],
+          [
+            39.781424051248116,
+            29.714260976651474
+          ],
+          [
+            39.76596849907713,
+            29.163156673148748
+          ],
+          [
+            39.728797503066744,
+            28.613098945794547
+          ],
+          [
+            39.67501527401823,
+            28.064430310369485
+          ],
+          [
+            39.604070529333754,
+            27.517722533027545
+          ],
+          [
+            39.5154344553044,
+            26.973599346906134
+          ],
+          [
+            39.40808786972196,
+            26.432846358752215
+          ],
+          [
+            39.28060636162485,
+            25.896483625708345
+          ],
+          [
+            39.13327766297788,
+            25.36524588276686
+          ],
+          [
+            38.96653611311368,
+            24.83978763770132
+          ],
+          [
+            38.7801752811203,
+            24.320954242328934
+          ],
+          [
+            38.572876900455014,
+            23.810110479485182
+          ],
+          [
+            38.34417238513441,
+            23.30849860722178
+          ],
+          [
+            38.09570218970709,
+            22.81639181854572
+          ],
+          [
+            37.82828312823355,
+            22.334314599225824
+          ],
+          [
+            37.54103235497821,
+            21.863771843253787
+          ],
+          [
+            37.233069491794566,
+            21.406527444314126
+          ],
+          [
+            36.90595453301376,
+            20.962800468048794
+          ],
+          [
+            36.56032334808378,
+            20.53332986867709
+          ],
+          [
+            36.19515780505932,
+            20.1203166103111
+          ],
+          [
+            35.81069436825571,
+            19.725228524395497
+          ],
+          [
+            35.40932448900328,
+            19.34734696831537
+          ],
+          [
+            34.99148177002813,
+            18.987746331550913
+          ],
+          [
+            34.556872444153825,
+            18.648585701654067
+          ],
+          [
+            34.10719399421423,
+            18.329698333529702
+          ],
+          [
+            33.64429071418364,
+            18.03033304326163
+          ],
+          [
+            33.16842010256992,
+            17.75202031404734
+          ],
+          [
+            32.67975695619461,
+            17.496839324975294
+          ],
+          [
+            32.17989560381691,
+            17.26439114814995
+          ],
+          [
+            31.67031957823071,
+            17.05409120740519
+          ],
+          [
+            31.15182351487894,
+            16.866812276947964
+          ],
+          [
+            30.625226963161886,
+            16.703674768645225
+          ],
+          [
+            30.092028205973662,
+            16.563663396220882
+          ],
+          [
+            29.553574091755877,
+            16.445474559582575
+          ],
+          [
+            29.010824541075394,
+            16.34881011348436
+          ],
+          [
+            28.46451758113681,
+            16.27471883805145
+          ],
+          [
+            27.915725268915835,
+            16.222248307238807
+          ],
+          [
+            27.365423204751114,
+            16.189334791704493
+          ],
+          [
+            26.814311783815498,
+            16.175291213043543
+          ],
+          [
+            26.263026229669098,
+            16.179704460913737
+          ],
+          [
+            25.712280454733737,
+            16.204654956157217
+          ],
+          [
+            25.162904171843454,
+            16.250580451016653
+          ],
+          [
+            24.61563425199773,
+            16.316938419462456
+          ],
+          [
+            24.07131263400176,
+            16.40427086510634
+          ],
+          [
+            23.531096982603096,
+            16.514241802718825
+          ],
+          [
+            22.996283908030776,
+            16.64799440798355
+          ],
+          [
+            22.467650688613833,
+            16.804340883322215
+          ],
+          [
+            21.946115184638053,
+            16.982950594010248
+          ],
+          [
+            21.43318982593282,
+            17.184999764865537
+          ],
+          [
+            20.93039871316536,
+            17.411071909618613
+          ],
+          [
+            20.438255753242377,
+            17.65944167991033
+          ],
+          [
+            19.95744304051451,
+            17.929104016462237
+          ],
+          [
+            19.489399113995,
+            18.220401837163486
+          ],
+          [
+            19.035464569650646,
+            18.53321452602493
+          ],
+          [
+            18.595629935610578,
+            18.865539016436845
+          ],
+          [
+            18.17063046639757,
+            19.216655016691227
+          ],
+          [
+            17.762912963953934,
+            19.587721415677578
+          ],
+          [
+            17.37302785485268,
+            19.977455445582134
+          ],
+          [
+            17.00040091001265,
+            20.383711868448394
+          ],
+          [
+            16.64612378845231,
+            20.80608303096404
+          ],
+          [
+            16.311899608325316,
+            21.244499629076596
+          ],
+          [
+            15.997050620590638,
+            21.697018341086686
+          ],
+          [
+            15.70089556531983,
+            22.16198993491287
+          ],
+          [
+            15.424287788964293,
+            22.63886746613774
+          ],
+          [
+            15.16815805003606,
+            23.12704784762957
+          ],
+          [
+            14.931530604604541,
+            23.624958735108383
+          ],
+          [
+            14.714255764569076,
+            24.131615651112057
+          ],
+          [
+            14.516785670724927,
+            24.646330605533695
+          ],
+          [
+            14.340228281755572,
+            25.168596251671477
+          ],
+          [
+            14.183645582171033,
+            25.697182208632462
+          ],
+          [
+            14.045858580314196,
+            26.230970684384907
+          ],
+          [
+            13.926536321228284,
+            26.76919746008564
+          ],
+          [
+            13.825927921599426,
+            27.31124899879174
+          ],
+          [
+            13.744190968104183,
+            27.856466181437032
+          ],
+          [
+            13.681440414324598,
+            28.404154059322074
+          ],
+          [
+            13.633999557940886,
+            28.95344584845808
+          ],
+          [
+            13.603431159805163,
+            29.503816567327515
+          ],
+          [
+            13.58346048077733,
+            30.05479140926298
+          ]
+        ]
+      }
+    ],
+    "reference_start_regions": [
+      "upper_left"
+    ],
+    "reference_initial_directions": [
+      "right_then_clockwise"
+    ],
+    "needs_bridge": true,
+    "tile_id": "print_u05e1",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": "https://ugabuga.co.il/letters/samech",
+    "source_locator": "SVG ההדגמה הגלוי בעמוד, aria-label איך כותבים את האות; נבדק סדר פקודות M/H/V/Q/Z",
+    "stroke_order_status": "approved",
+    "approved_by": "User: מאשרת את ההגדרות לפיילוט (chat reply 2026-10-15)",
+    "font_selection_status": "approved",
+    "source_scope": "אתר תרגול ישראלי; אינו תקן או מדריך משרד החינוך. הכיוון נבדק בהדגמה ונמצא תואם גם למקור ההשוואה החיצוני. המשתמשת אישרה הגדרה זו לפיילוט.",
+    "israeli_pedagogy_source": "https://ugabuga.co.il/letters/samech",
+    "bridge_placement_status": "engineering_pilot_pending_physical_review",
+    "approved_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "approved_geometry_config_sha256": "78e9740bb68dc4b7c40a9c106327f105d7ae7bec70b5660e891bf1d118d9adce",
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null,
+    "bridge_paths_mm": [
+      [
+        [
+          18,
+          47
+        ],
+        [
+          21,
+          38
+        ]
+      ]
+    ],
+    "approval_scope": "pilot",
+    "marker_placement_status": "engineering_pilot; generated after approval of stroke definitions; unprinted",
+    "marker_style_revision": "v2: glyph-following curved arrows; user requested visual refinement 2026-10-15; stroke order unchanged"
+  },
+  {
+    "name_he": "עין",
+    "char": "ע",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05e2",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "פא סופית",
+    "char": "ף",
+    "style": "print",
+    "final_form": true,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05e3",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "פא",
+    "char": "פ",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05e4",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "צדי סופית",
+    "char": "ץ",
+    "style": "print",
+    "final_form": true,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05e5",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "צדי",
+    "char": "צ",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05e6",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "קוף",
+    "char": "ק",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05e7",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "ריש",
+    "char": "ר",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05e8",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "שין",
+    "char": "ש",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05e9",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "תו",
+    "char": "ת",
+    "style": "print",
+    "final_form": false,
+    "font_source": "Heebo Regular",
+    "font_path": "fonts/print/heebo/Heebo[wght].ttf",
+    "font_url": "https://github.com/google/fonts/tree/main/ofl/heebo",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "print_u05ea",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {
+      "wght": 400
+    },
+    "current_font_sha256": "18f930b583fa8fe6b40b2f8263b7ac6afbac07adc91a12467874e7467d3ace30",
+    "reference_family": null,
+    "reference_family_source": null,
+    "reference_family_source_locator": null
+  },
+  {
+    "name_he": "אלף",
+    "char": "א",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": 2,
+    "stroke_order_description": "החלק הימני מתחיל באזור הימני העליון ונע שמאלה לעיקול; אחריו הקו השמאלי מלמעלה למטה.",
+    "start_points": [
+      {
+        "x": 33.5,
+        "y": 35,
+        "label_x": 39,
+        "label_y": 41
+      },
+      {
+        "x": 25.5,
+        "y": 38,
+        "label_x": 17,
+        "label_y": 44
+      }
+    ],
+    "direction_arrows": [
+      {
+        "from": [
+          37,
+          38.9
+        ],
+        "to": [
+          30.5,
+          37.8
+        ],
+        "path": [
+          [
+            37,
+            38.9
+          ],
+          [
+            34,
+            38.8
+          ],
+          [
+            30.5,
+            37.8
+          ]
+        ]
+      },
+      {
+        "from": [
+          20.3,
+          39
+        ],
+        "to": [
+          14,
+          23
+        ],
+        "path": [
+          [
+            20.3,
+            39
+          ],
+          [
+            14,
+            23
+          ]
+        ]
+      }
+    ],
+    "reference_start_regions": [
+      "upper_right",
+      "upper_left"
+    ],
+    "reference_initial_directions": [
+      "left_into_curve",
+      "down"
+    ],
+    "needs_bridge": false,
+    "tile_id": "script_u05d0",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": "https://www.yo-yoo.co.il/limodim/daf.php?id=420",
+    "source_locator": "See docs/stroke_order/pilot_reference.md",
+    "stroke_order_status": "approved",
+    "approved_by": "User: מאשרת את ההגדרות לפיילוט (chat reply 2026-10-15)",
+    "font_selection_status": "approved",
+    "source_scope": "תעתיק ראשוני של מקור; אינו אישור לתוכנית לימודים ישראלית",
+    "israeli_pedagogy_source": "https://www.yo-yoo.co.il/limodim/daf.php?id=420",
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "approved_geometry_config_sha256": "78e9740bb68dc4b7c40a9c106327f105d7ae7bec70b5660e891bf1d118d9adce",
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "אריה",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition",
+    "approval_scope": "pilot",
+    "marker_placement_status": "engineering_pilot; generated after approval of stroke definitions; unprinted",
+    "marker_style_revision": "v2: glyph-following curved arrows; user requested visual refinement 2026-10-15; stroke order unchanged"
+  },
+  {
+    "name_he": "בית",
+    "char": "ב",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": 1,
+    "stroke_order_description": "תחילה באזור העליון השמאלי לכיוון ימין; המשך העיקול כפי שמוצג בדף, עם בדיקה נפרדת של המסלול המלא.",
+    "start_points": [
+      {
+        "x": 20,
+        "y": 33.5,
+        "label_x": 12,
+        "label_y": 40
+      }
+    ],
+    "direction_arrows": [
+      {
+        "from": [
+          19.808789723452726,
+          36.76172146300293
+        ],
+        "to": [
+          29.478257794477607,
+          19.984772034318603
+        ],
+        "path": [
+          [
+            19.808789723452726,
+            36.76172146300293
+          ],
+          [
+            20.33345291946879,
+            36.94583812290688
+          ],
+          [
+            20.86321848211569,
+            37.11475583945189
+          ],
+          [
+            21.397127094394243,
+            37.27012414937883
+          ],
+          [
+            21.935694771891356,
+            37.40856474359439
+          ],
+          [
+            22.47426244938847,
+            37.54700533780995
+          ],
+          [
+            23.016561741479876,
+            37.669871702978305
+          ],
+          [
+            23.561280609520534,
+            37.78146150675644
+          ],
+          [
+            24.108046903753788,
+            37.88263438791517
+          ],
+          [
+            24.656759064182552,
+            37.972833647163725
+          ],
+          [
+            25.207406218461056,
+            38.050299165905905
+          ],
+          [
+            25.759516296934887,
+            38.11602366852699
+          ],
+          [
+            26.312948568519783,
+            38.16987220722992
+          ],
+          [
+            26.868143379452643,
+            38.20117178046372
+          ],
+          [
+            27.42397164499366,
+            38.21408531875794
+          ],
+          [
+            27.979956122352046,
+            38.21155181547718
+          ],
+          [
+            28.535557043574585,
+            38.18856143253004
+          ],
+          [
+            29.089627367383194,
+            38.14198415858455
+          ],
+          [
+            29.640829789607842,
+            38.07099736772222
+          ],
+          [
+            30.1879588919922,
+            37.9717134596803
+          ],
+          [
+            30.726909978786082,
+            37.835138114335656
+          ],
+          [
+            31.259883953731897,
+            37.677447758649464
+          ],
+          [
+            31.784892444184372,
+            37.494228819237584
+          ],
+          [
+            32.29812942810732,
+            37.28041183866935
+          ],
+          [
+            32.803364197615046,
+            37.04864371243418
+          ],
+          [
+            33.296331751974364,
+            36.79134246540964
+          ],
+          [
+            33.773441743720355,
+            36.50601808394759
+          ],
+          [
+            34.240418786513914,
+            36.204406608806686
+          ],
+          [
+            34.68950299488594,
+            35.87646710956595
+          ],
+          [
+            35.1234997104027,
+            35.52900273721087
+          ],
+          [
+            35.534704774172475,
+            35.15477214244332
+          ],
+          [
+            35.9222595847848,
+            34.75614016434067
+          ],
+          [
+            36.28417206803569,
+            34.334123381025634
+          ],
+          [
+            36.61962137422422,
+            33.89078829158434
+          ],
+          [
+            36.92638958000326,
+            33.427121260054655
+          ],
+          [
+            37.20212490147791,
+            32.94433887396906
+          ],
+          [
+            37.44342552908878,
+            32.44347760607909
+          ],
+          [
+            37.64456275010633,
+            31.925208886065974
+          ],
+          [
+            37.80562869055268,
+            31.393165186298763
+          ],
+          [
+            37.92619846974989,
+            30.85052786305968
+          ],
+          [
+            38.00651766451949,
+            30.30048604745154
+          ],
+          [
+            38.047458355620854,
+            29.74609560954386
+          ],
+          [
+            38.050436775074566,
+            29.190161801867863
+          ],
+          [
+            38.010698381844705,
+            28.635691925887635
+          ],
+          [
+            37.92669784052628,
+            28.086146754276612
+          ],
+          [
+            37.79892007034761,
+            27.545128299027525
+          ],
+          [
+            37.63074013738132,
+            27.015278910069625
+          ],
+          [
+            37.42431842737901,
+            26.499099212711343
+          ],
+          [
+            37.1809506718442,
+            25.999223739586906
+          ],
+          [
+            36.902598266433145,
+            25.51800361672107
+          ],
+          [
+            36.60046492708109,
+            25.051170387119676
+          ],
+          [
+            36.269870228444496,
+            24.604193860225152
+          ],
+          [
+            35.92222649211422,
+            24.170430833904643
+          ],
+          [
+            35.553836782412745,
+            23.75389825892579
+          ],
+          [
+            35.162745178015285,
+            23.358689903805878
+          ],
+          [
+            34.758949401553465,
+            22.976599229886375
+          ],
+          [
+            34.33967037274964,
+            22.61132394003403
+          ],
+          [
+            33.9023149421812,
+            22.26799316893694
+          ],
+          [
+            33.454918979865326,
+            21.937999453849635
+          ],
+          [
+            32.994421548717156,
+            21.626289561036902
+          ],
+          [
+            32.51924144723809,
+            21.33758518679244
+          ],
+          [
+            32.0361548927584,
+            21.06243210551304
+          ],
+          [
+            31.54269757181217,
+            20.806071395231662
+          ],
+          [
+            31.038089827121798,
+            20.572573610884714
+          ],
+          [
+            30.526733545139013,
+            20.354449682974
+          ],
+          [
+            30.007146661509537,
+            20.15636267528758
+          ],
+          [
+            29.478257794477607,
+            19.984772034318603
+          ]
+        ]
+      }
+    ],
+    "reference_start_regions": [
+      "upper_left"
+    ],
+    "reference_initial_directions": [
+      "right_into_curve"
+    ],
+    "needs_bridge": false,
+    "tile_id": "script_u05d1",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": "https://www.yo-yoo.co.il/limodim/daf.php?id=420",
+    "source_locator": "See docs/stroke_order/pilot_reference.md",
+    "stroke_order_status": "approved",
+    "approved_by": "User: מאשרת את ההגדרות לפיילוט (chat reply 2026-10-15)",
+    "font_selection_status": "approved",
+    "source_scope": "תעתיק ראשוני של מקור; אינו אישור לתוכנית לימודים ישראלית",
+    "israeli_pedagogy_source": "https://www.yo-yoo.co.il/limodim/daf.php?id=420",
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "approved_geometry_config_sha256": "78e9740bb68dc4b7c40a9c106327f105d7ae7bec70b5660e891bf1d118d9adce",
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "קשת",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition",
+    "approval_scope": "pilot",
+    "marker_placement_status": "engineering_pilot; generated after approval of stroke definitions; unprinted",
+    "marker_style_revision": "v2: glyph-following curved arrows; user requested visual refinement 2026-10-15; stroke order unchanged"
+  },
+  {
+    "name_he": "גימל",
+    "char": "ג",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": 1,
+    "stroke_order_description": "תחילה באזור העליון, באלכסון מטה וימינה, ואז המשך עיקול האות לפי הדוגמה.",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [
+      "upper_left"
+    ],
+    "reference_initial_directions": [
+      "down_right_into_curve"
+    ],
+    "needs_bridge": false,
+    "tile_id": "script_u05d2",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": "https://www.yo-yoo.co.il/limodim/daf.php?id=420",
+    "source_locator": "See docs/stroke_order/pilot_reference.md",
+    "stroke_order_status": "draft_reference",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": "תעתיק ראשוני של מקור; אינו אישור לתוכנית לימודים ישראלית",
+    "israeli_pedagogy_source": "https://www.yo-yoo.co.il/limodim/daf.php?id=420",
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "אריה",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "דלת",
+    "char": "ד",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05d3",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "כד",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "הא",
+    "char": "ה",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05d4",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "קשת",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "וו",
+    "char": "ו",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05d5",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "נופל",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "זין",
+    "char": "ז",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05d6",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "כד",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "חית",
+    "char": "ח",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05d7",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "קשת",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "טית",
+    "char": "ט",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05d8",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "שולף",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "יוד",
+    "char": "י",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05d9",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "נופל",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "כף סופית",
+    "char": "ך",
+    "style": "script",
+    "final_form": true,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05da",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "כד",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "כף",
+    "char": "כ",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05db",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "כד",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "למד",
+    "char": "ל",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05dc",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "אריה",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "מם סופית",
+    "char": "ם",
+    "style": "script",
+    "final_form": true,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": 1,
+    "stroke_order_description": "מתחילים בחלק העליון־שמאלי של הלולאה (עמדת שעה 10), מקיפים בכיוון השעון, חוזרים לנקודה ויורדים ממנה בקו ישר מטה, ברצף.",
+    "start_points": [
+      {
+        "x": 25,
+        "y": 34.5,
+        "label_x": 19,
+        "label_y": 43
+      }
+    ],
+    "direction_arrows": [
+      {
+        "from": [
+          25.20978479567879,
+          38.95943821314194
+        ],
+        "to": [
+          23.715406973368133,
+          21.75465818117944
+        ],
+        "path": [
+          [
+            25.20978479567879,
+            38.95943821314194
+          ],
+          [
+            25.736118546088427,
+            39.141444384084096
+          ],
+          [
+            26.26731581054634,
+            39.30859428170507
+          ],
+          [
+            26.80735810520934,
+            39.4443855789518
+          ],
+          [
+            27.35446243763531,
+            39.54811099302877
+          ],
+          [
+            27.90676840119817,
+            39.61926080785681
+          ],
+          [
+            28.46237850791458,
+            39.6571254046963
+          ],
+          [
+            29.019281083891357,
+            39.661314226738895
+          ],
+          [
+            29.57551050068846,
+            39.63349582607719
+          ],
+          [
+            30.129065381916384,
+            39.57255061321951
+          ],
+          [
+            30.676152845909492,
+            39.46960003905478
+          ],
+          [
+            31.212007759639057,
+            39.31869799116338
+          ],
+          [
+            31.733531604443854,
+            39.12371700646463
+          ],
+          [
+            32.2382893363979,
+            38.88857568332126
+          ],
+          [
+            32.72438547426967,
+            38.61685494343087
+          ],
+          [
+            33.19200730265037,
+            38.31440396254146
+          ],
+          [
+            33.63987740851204,
+            37.98342830907898
+          ],
+          [
+            34.067145362683206,
+            37.62631739159986
+          ],
+          [
+            34.471619658649196,
+            37.24359844541229
+          ],
+          [
+            34.85254150173342,
+            36.83743284787906
+          ],
+          [
+            35.20951510635997,
+            36.410057062266254
+          ],
+          [
+            35.54248615987189,
+            35.963709885334374
+          ],
+          [
+            35.851705887509326,
+            35.500570335255354
+          ],
+          [
+            36.13768574997272,
+            35.02270874209075
+          ],
+          [
+            36.39702328727141,
+            34.52991915477284
+          ],
+          [
+            36.625224365720804,
+            34.022036093210005
+          ],
+          [
+            36.82127821675079,
+            33.50091578926767
+          ],
+          [
+            36.98533852022892,
+            32.96884001987048
+          ],
+          [
+            37.11794025936751,
+            32.428023528089476
+          ],
+          [
+            37.219961788165726,
+            31.880552656483637
+          ],
+          [
+            37.2919152349944,
+            31.328273993990457
+          ],
+          [
+            37.33491748525907,
+            30.772981140648728
+          ],
+          [
+            37.35148235764198,
+            30.21626358803232
+          ],
+          [
+            37.3410026148896,
+            29.659411639762165
+          ],
+          [
+            37.30240393008947,
+            29.103832230229088
+          ],
+          [
+            37.234449071543864,
+            28.55110429640031
+          ],
+          [
+            37.13612262541786,
+            28.002990322634464
+          ],
+          [
+            37.00668440011337,
+            27.461402232379765
+          ],
+          [
+            36.84571364511635,
+            26.92835441477192
+          ],
+          [
+            36.65314082979137,
+            26.405905765168985
+          ],
+          [
+            36.429263763135474,
+            25.896094281232497
+          ],
+          [
+            36.175069219097615,
+            25.40069287545956
+          ],
+          [
+            35.89160662985366,
+            24.921433856742492
+          ],
+          [
+            35.57932409017748,
+            24.460444147388653
+          ],
+          [
+            35.23859308818452,
+            24.02007066601175
+          ],
+          [
+            34.87020349842086,
+            23.602562206526404
+          ],
+          [
+            34.47535310172402,
+            23.20998276651785
+          ],
+          [
+            34.055613357763285,
+            22.844129416016244
+          ],
+          [
+            33.61287361706999,
+            22.5064617115169
+          ],
+          [
+            33.149057939230154,
+            22.198384371847457
+          ],
+          [
+            32.66563022127965,
+            21.922156615795256
+          ],
+          [
+            32.164046847781336,
+            21.680380809433696
+          ],
+          [
+            31.646599060549637,
+            21.474612888553803
+          ],
+          [
+            31.115722780871465,
+            21.30640740213841
+          ],
+          [
+            30.57411729524969,
+            21.176763096442254
+          ],
+          [
+            30.02501322574003,
+            21.084022839225156
+          ],
+          [
+            29.470939494167173,
+            21.028118716392946
+          ],
+          [
+            28.914402215066232,
+            21.00794416840281
+          ],
+          [
+            28.35776945258711,
+            21.024293775099526
+          ],
+          [
+            27.803624387452917,
+            21.079326846397723
+          ],
+          [
+            27.254923997447825,
+            21.17433891646042
+          ],
+          [
+            26.714902955920348,
+            21.310151517711592
+          ],
+          [
+            26.186402578585696,
+            21.4854031260582
+          ],
+          [
+            25.672279447030427,
+            21.69914759706538
+          ],
+          [
+            25.175129141468865,
+            21.949867042229737
+          ],
+          [
+            24.69796368470352,
+            22.236810148873918
+          ],
+          [
+            24.231536220011442,
+            22.54105925278325
+          ],
+          [
+            23.94717540830914,
+            22.26113513358228
+          ],
+          [
+            23.715406973368133,
+            21.75465818117944
+          ]
+        ],
+        "additional_paths": [
+          [
+            [
+              14.9,
+              30
+            ],
+            [
+              11.5,
+              21.5
+            ]
+          ]
+        ]
+      }
+    ],
+    "reference_start_regions": [
+      "loop_upper_left_10_oclock"
+    ],
+    "reference_initial_directions": [
+      "clockwise_loop_then_down_from_start"
+    ],
+    "needs_bridge": true,
+    "tile_id": "script_u05dd",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "source_locator": "Ktav-madrich.pdf, page 28, clock diagram and paragraph marked ם",
+    "stroke_order_status": "approved",
+    "approved_by": "User: מאשרת את ההגדרות לפיילוט (chat reply 2026-10-15)",
+    "font_selection_status": "approved",
+    "source_scope": "מקור ישראלי מפורש: חיה קושניר, מדריך למורה, עמ׳ 28; הגדרת המשיכות אושרה לפיילוט; מיקום הסימונים ממתין לניסוי פיזי.",
+    "israeli_pedagogy_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "bridge_placement_status": "engineering_pilot_pending_physical_review",
+    "approved_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "approved_geometry_config_sha256": "78e9740bb68dc4b7c40a9c106327f105d7ae7bec70b5660e891bf1d118d9adce",
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "כד",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition",
+    "bridge_paths_mm": [
+      [
+        [
+          21,
+          40
+        ],
+        [
+          29,
+          31
+        ]
+      ]
+    ],
+    "approval_scope": "pilot",
+    "marker_placement_status": "engineering_pilot; generated after approval of stroke definitions; unprinted",
+    "marker_style_revision": "v2: glyph-following curved arrows; user requested visual refinement 2026-10-15; stroke order unchanged"
+  },
+  {
+    "name_he": "מם",
+    "char": "מ",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05de",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "נופל",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "נון סופית",
+    "char": "ן",
+    "style": "script",
+    "final_form": true,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05df",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "נופל",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "נון",
+    "char": "נ",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05e0",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "נופל",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "סמך",
+    "char": "ס",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": 1,
+    "stroke_order_description": "תחילה בחלק העליון השמאלי, באלכסון מעלה וימינה לפתיחת ההקפה.",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [
+      "upper_left"
+    ],
+    "reference_initial_directions": [
+      "up_right_into_loop"
+    ],
+    "needs_bridge": true,
+    "tile_id": "script_u05e1",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": "https://www.yo-yoo.co.il/limodim/daf.php?id=420",
+    "source_locator": "See docs/stroke_order/pilot_reference.md",
+    "stroke_order_status": "draft_reference",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": "תעתיק ראשוני של מקור; אינו אישור לתוכנית לימודים ישראלית",
+    "israeli_pedagogy_source": "https://www.yo-yoo.co.il/limodim/daf.php?id=420",
+    "bridge_placement_status": "pending",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "כד",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "עין",
+    "char": "ע",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": true,
+    "tile_id": "script_u05e2",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "pending",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "אריה",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "פא סופית",
+    "char": "ף",
+    "style": "script",
+    "final_form": true,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": true,
+    "tile_id": "script_u05e3",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "pending",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "אריה",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "פא",
+    "char": "פ",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05e4",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "כד",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "צדי סופית",
+    "char": "ץ",
+    "style": "script",
+    "final_form": true,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": true,
+    "tile_id": "script_u05e5",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "pending",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "אריה",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "צדי",
+    "char": "צ",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05e6",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "כד",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "קוף",
+    "char": "ק",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05e7",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "קשת",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "ריש",
+    "char": "ר",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05e8",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "קשת",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "שין",
+    "char": "ש",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": true,
+    "tile_id": "script_u05e9",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "pending",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "שולף",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  },
+  {
+    "name_he": "תו",
+    "char": "ת",
+    "style": "script",
+    "final_form": false,
+    "font_source": "Gveret Levin",
+    "font_path": "fonts/script/gveret/GveretLevin-Regular.ttf",
+    "font_url": "https://github.com/AlefAlefAlef/gveret-levin",
+    "glyph_source_notes": "מקור הפונט שנבחר על ידי המשתמשת; קנה מידה אחיד ושמירת כלל מילוי nonzero; גשרים מתועדים בנפרד.",
+    "stroke_count": null,
+    "stroke_order_description": "טרם תועד מקור ברמת האות",
+    "start_points": [],
+    "direction_arrows": [],
+    "reference_start_regions": [],
+    "reference_initial_directions": [],
+    "needs_bridge": false,
+    "tile_id": "script_u05ea",
+    "rtl_connector_role": "left_male_right_female; next logical letter is placed one tile width to the left",
+    "stroke_source": null,
+    "source_locator": null,
+    "stroke_order_status": "source_needed",
+    "approved_by": null,
+    "font_selection_status": "approved",
+    "source_scope": null,
+    "israeli_pedagogy_source": null,
+    "bridge_placement_status": "not_needed",
+    "approved_font_sha256": null,
+    "approved_geometry_config_sha256": null,
+    "font_axes": {},
+    "current_font_sha256": "05c443395d48b97f43469da4fb08772a4c612fda306348577dbc40a1267912b1",
+    "reference_family": "קשת",
+    "reference_family_source": "https://www.netzart-fedorov.com/clients/kushnir/Ktav-madrich.zip",
+    "reference_family_source_locator": "Ktav-madrich.pdf, page 10; family membership only, not a complete stroke definition"
+  }
+]

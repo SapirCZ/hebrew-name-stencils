@@ -1,0 +1,91 @@
+{
+  "source_pdf_sha256": "e164e7d53714c2cd80af77385516591493a8cd3438adc3a8637502c13e5e580b",
+  "reviewed_mem_layout": "data/review/card_stencil_layout_v8.json",
+  "purpose": "Engineering comparison coupon, not an added teaching letter",
+  "features": [
+    "unchanged full-size reviewed Mem and arrows",
+    "2.6316mm annular aperture and 1.8mm island bridge",
+    "flat bottom inspection area",
+    "4mm regular digits and the same digits expanded .12mm per edge",
+    "7mm bold upper-right version ID",
+    "full-size existing puzzle connector"
+  ],
+  "fixed_settings": {
+    "small_perimeter_threshold_mm": 6,
+    "small_perimeter_speed": "50% of outer wall",
+    "ironing_flow": "10%",
+    "ironing_spacing_mm": 0.15,
+    "ironing_speed_mm_s": 30
+  },
+  "variants": [
+    {
+      "id": 1,
+      "x": 100,
+      "y": 160,
+      "label": "בסיס להשוואה",
+      "reference": null,
+      "settings": {
+        "top_surface_speed": "200,200",
+        "outer_wall_speed": "200,200",
+        "ironing_type": "no ironing",
+        "wall_generator": "classic"
+      }
+    },
+    {
+      "id": 2,
+      "x": 14,
+      "y": 160,
+      "label": "משטח עליון איטי",
+      "reference": 1,
+      "settings": {
+        "top_surface_speed": "60,60",
+        "outer_wall_speed": "200,200",
+        "ironing_type": "no ironing",
+        "wall_generator": "classic"
+      },
+      "changed_key": "top_surface_speed"
+    },
+    {
+      "id": 3,
+      "x": 100,
+      "y": 86,
+      "label": "גם היקפים איטיים",
+      "reference": 2,
+      "settings": {
+        "top_surface_speed": "60,60",
+        "outer_wall_speed": "40,40",
+        "ironing_type": "no ironing",
+        "wall_generator": "classic"
+      },
+      "changed_key": "outer_wall_speed"
+    },
+    {
+      "id": 4,
+      "x": 14,
+      "y": 86,
+      "label": "גם גיהוץ",
+      "reference": 2,
+      "settings": {
+        "top_surface_speed": "60,60",
+        "outer_wall_speed": "200,200",
+        "ironing_type": "topmost",
+        "wall_generator": "classic"
+      },
+      "changed_key": "ironing_type"
+    },
+    {
+      "id": 5,
+      "x": 100,
+      "y": 12,
+      "label": "גם Arachne לקווים דקים",
+      "reference": 2,
+      "settings": {
+        "top_surface_speed": "60,60",
+        "outer_wall_speed": "200,200",
+        "ironing_type": "no ironing",
+        "wall_generator": "arachne"
+      },
+      "changed_key": "wall_generator"
+    }
+  ]
+}

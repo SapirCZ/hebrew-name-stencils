@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-22",
+  "command": "python -m unittest discover -s tests -v",
+  "tests": 5,
+  "status": "passed",
+  "python_tested": "3.14",
+  "scope": [
+    "reviewed Noga geometry and RTL",
+    "inlay floor and volumes",
+    "input validation and width limit",
+    "dual and single project assignments",
+    "final forms and spaces"
+  ]
+}

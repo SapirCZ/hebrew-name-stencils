@@ -1,0 +1,17 @@
+{
+  "kind": "puzzle_tile",
+  "name": "ע",
+  "width_mm": 52.0,
+  "height_mm": 62.0,
+  "source_sha256": "e164e7d53714c2cd80af77385516591493a8cd3438adc3a8637502c13e5e580b",
+  "stroke_count": 2,
+  "thickness_mm": 2.4,
+  "marker_depth_mm": 0.6,
+  "floor_below_markers_mm": 1.7999999999999998,
+  "minimum_marker_clearance_mm": 0.9342105263157816,
+  "body_connected": true,
+  "meshes_watertight": true,
+  "status": "geometry validated; generated model has not been physically tested",
+  "alphabet_review": "v8",
+  "digit_expansion_per_edge_mm": 0.12
+}

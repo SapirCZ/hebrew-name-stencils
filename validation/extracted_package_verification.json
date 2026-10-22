@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-22",
+  "archive_extraction_test_passed": true,
+  "all_manifest_checksums_verified": true,
+  "source_files_verified": 362,
+  "unit_tests_passed": 5,
+  "custom_name_from_extracted_package": "מיכל",
+  "source_pdf_required": false,
+  "bambu_installation_required_for_generation": false,
+  "source_generator_sha256": "7979de31c326b7bedde0f4e474a8969783bc23e625649c56f43fcc86938b7186"
+}

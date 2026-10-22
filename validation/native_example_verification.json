@@ -1,0 +1,29 @@
+[
+  {
+    "project": "examples/noga/DUAL_COLOR.3mf",
+    "native_roundtrip_assignments": [
+      "1",
+      "2"
+    ],
+    "local_slice_passed": true,
+    "sliced_height_mm": 1.8,
+    "gcode_header": "; HEADER_BLOCK_START\n; BambuStudio 02.08.02.61\n; model printing time: 40m 58s; total estimated time: 47m 14s\n; total layer number: 9\n; total filament length [mm] : 3284.26,285.29\n; total filament volume [cm^3] : 7899.56,686.20\n; total filament weight [g] : 9.80,0.85\n; filament_density: 1.24,1.24\n; filament_diameter: 1.75,1.75\n; max_z_height: 1.80\n; filament: 1,2\n; support_material_on_wipe_tower: 0\n; HEADER_BLOCK_END\n\n; CONFIG_BLOCK_START\n; accel_to_decel_enable = 0\n; accel_to_decel_factor = 50%\n; activate_air_filtration = 0,0\n; additional_cooling_fan_speed = 70,70\n; additional_fan_full_speed_layer = 0,0",
+    "wall_generator": "arachne",
+    "ironing_type": "topmost",
+    "gcode_delivered": false,
+    "printer_contacted": false
+  },
+  {
+    "project": "examples/noga/SINGLE_COLOR.3mf",
+    "native_roundtrip_assignments": [
+      "1"
+    ],
+    "local_slice_passed": true,
+    "sliced_height_mm": 1.8,
+    "gcode_header": "; HEADER_BLOCK_START\n; BambuStudio 02.08.02.61\n; model printing time: 32m 55s; total estimated time: 39m 11s\n; total layer number: 9\n; total filament length [mm] : 2957.66\n; total filament volume [cm^3] : 7114.01\n; total filament weight [g] : 8.82\n; filament_density: 1.24,1.24\n; filament_diameter: 1.75,1.75\n; max_z_height: 1.80\n; filament: 1\n; support_material_on_wipe_tower: 0\n; HEADER_BLOCK_END\n\n; CONFIG_BLOCK_START\n; accel_to_decel_enable = 0\n; accel_to_decel_factor = 50%\n; activate_air_filtration = 0,0\n; additional_cooling_fan_speed = 70,70\n; additional_fan_full_speed_layer = 0,0",
+    "wall_generator": "arachne",
+    "ironing_type": "topmost",
+    "gcode_delivered": false,
+    "printer_contacted": false
+  }
+]

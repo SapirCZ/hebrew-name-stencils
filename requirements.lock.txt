@@ -1,0 +1,13 @@
+certifi==2026.7.22
+charset-normalizer==3.5.2
+fonttools==4.67.0
+idna==3.20
+manifold3d==3.5.4
+mapbox_earcut==2.1.0
+networkx==3.7
+numpy==2.5.4
+pillow==12.3.0
+requests==2.34.2
+shapely==2.2.0
+trimesh==5.1.1
+urllib3==2.8.0

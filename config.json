@@ -1,0 +1,40 @@
+{
+  "width": 52.0,
+  "height": 62.0,
+  "thickness": 3.2,
+  "corner_radius": 3.0,
+  "connector_radius": 4.0,
+  "connector_neck": 5.0,
+  "connector_projection": 5.0,
+  "connector_clearance": 0.25,
+  "connector_y_fractions": [
+    0.18,
+    0.82
+  ],
+  "glyph_window_width": 33.0,
+  "glyph_window_height": 40.0,
+  "glyph_bottom": 11.0,
+  "glyph_offset": 0.0,
+  "bridge_width": 1.8,
+  "marker_depth": 0.6,
+  "marker_line_width": 1.2,
+  "marker_number_height": 4.0,
+  "marker_clearance": 0.8,
+  "minimum_wall": 1.6,
+  "minimum_opening_probe": 2.0,
+  "fonts": {
+    "print": "fonts/print/heebo/Heebo[wght].ttf",
+    "script": "fonts/script/gveret/GveretLevin-Regular.ttf"
+  },
+  "font_axes": {
+    "print": {
+      "wght": 400
+    },
+    "script": {}
+  },
+  "font_selection_status": "approved",
+  "font_selection_reviewer": "User selected Heebo Regular and Gveret Levin, then requested execution on 2026-10-15",
+  "marker_head_length": 2.8,
+  "marker_head_width": 3.4,
+  "marker_corner_radius": 1.8
+}

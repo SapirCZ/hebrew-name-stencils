@@ -1,0 +1,42 @@
+{
+  "kind": "name",
+  "name": "נגה",
+  "width_mm": 86.76363808339977,
+  "height_mm": 52.0,
+  "letter_placements": [
+    {
+      "char": "נ",
+      "translation_mm": [
+        47.068901241294505,
+        -11.402631578947371
+      ],
+      "stroke_count": 1
+    },
+    {
+      "char": "ג",
+      "translation_mm": [
+        24.958414708637775,
+        -11.402631578947371
+      ],
+      "stroke_count": 2
+    },
+    {
+      "char": "ה",
+      "translation_mm": [
+        -3.9958356008107643,
+        -11.402631578947371
+      ],
+      "stroke_count": 2
+    }
+  ],
+  "source_sha256": "e164e7d53714c2cd80af77385516591493a8cd3438adc3a8637502c13e5e580b",
+  "thickness_mm": 1.8,
+  "marker_depth_mm": 0.6,
+  "floor_below_markers_mm": 1.2000000000000002,
+  "minimum_marker_clearance_mm": 0.8400000000000033,
+  "body_connected": true,
+  "meshes_watertight": true,
+  "status": "geometry validated; generated model has not been physically tested",
+  "alphabet_review": "v8",
+  "digit_expansion_per_edge_mm": 0.12
+}
